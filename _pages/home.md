@@ -52,6 +52,12 @@ permalink: /
   </a>
 </div>
 
+Ultrafast THz
+The ultrafast terahertz (THz) spectroscopy group aims to improve the general understanding of quantum interactions in solid state. To do so we rely on time-resolved THz technologies to map out the ultrafast dynamics of a vast range of microscopic interactions in materials. In some extreme cases, these interactions lead to macroscopic quantum phenomena such as superconductivity or dynamical Bose-Einstein condensation. In addition to exploring these fascinating phase transitions, we also develop optical tools to control them.
+
+Our group is affiliated with the [Max Planck - uOttawa Centre for Extreme and Quantum Photonics](https://www.uottawa.ca/research-innovation/), the [Joint Centre for Extreme Photonics (JCEP)](https://extremephotonics.com/) and the [Center for Quantum 2D Materials](https://qc2dm.physics.uottawa.ca/)
+
+We also benefit from the infrastructure provided by the Centre for Research in Photonics and the Centre for Advanced Materials Research
 
 We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
 
