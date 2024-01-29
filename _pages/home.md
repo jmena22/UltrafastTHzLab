@@ -1,7 +1,7 @@
 ---
-title: "Lab - Home"
+title: "Ménard Lab - Home"
 layout: homelay
-excerpt: "Lab at University &rarr; ."
+excerpt: "Ménard Lab at University of Ottawa &rarr; ."
 sitemap: false
 permalink: /
 ---
