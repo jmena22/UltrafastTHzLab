@@ -77,8 +77,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-
-## Master and Bachelor Students
+<!---
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -190,7 +190,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
+-->
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+
