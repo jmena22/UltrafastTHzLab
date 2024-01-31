@@ -41,7 +41,7 @@ Finally, are also interested in developing new experimental geometry to achieve 
 
 [3]	D. J. Jubgang Fandio et al. Sub-zeptojoule detection of terahertz pulses by parametric frequency upconversion. arXiv.2310.08452 (2023)
 
-[4]	https://arxiv.org/abs/2304.03654 (use the citation)
+[4]	A. Jaber et al. Hybrid THz architectures for molecular polaritonics. arXiv:2304.03654 (2023)
 
 [5]	W. Cui et al. High-field THz source centered at 2.6 THz. Opt. Express 31, 32468 (2023)  
 
