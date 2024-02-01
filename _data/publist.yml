@@ -6,26 +6,35 @@
     url: https://www.nature.com/articles/s41467-023-38354-3
     display: Nature Communications 14, 2595 (2023).
   highlight: 1
-  news2: See [news item](https://www.uottawa.ca/about-us/media/news/unveiling-invisible-breakthrough-spectroscopy-allow-discoveries-materials-physics) by Michelle Willebrands
+  news2: See [news item](https://www.uottawa.ca/about-us/media/news/unveiling-invisible-breakthrough-spectroscopy-allow-discoveries-materials-physics) 
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+- title: "Extremely large nonlinear response in crystalline quartz at THz frequencies"
+  image: 
+  description: 
+  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva.  
   link:
-    url: https://arxiv.org/abs/2306.02397
+    url: https://arxiv.org/abs/2210.01926
     display: arXiv
   highlight: 0
-
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
+  
+- title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
+  image: 
+  description: 
+  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva.  
   link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
+    url: https://opg.optica.org/ao/fulltext.cfm?uri=ao-62-15-4097&id=530759
+    display: Applied Optics 62, 4097-4101 (2023)
+  highlight: 0
+
+- title: "Metamaterial-based octave-wide terahertz bandpass filters"
+  image: Alifilter.jpeg
+  description:
+  authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard. 
+  link:
+    url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-526&id=527935
+    display: Photonics Research 11, 526-532 (2023)
   highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
+  news1: 
 
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
