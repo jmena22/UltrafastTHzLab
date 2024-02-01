@@ -60,6 +60,9 @@ Jump to [Postdocs](#postdocs), [graduate students](#graduate-students), [alumni]
   {% endif %}
 
   </ul>
+  {% if member.email %}
+    <p>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+  {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
