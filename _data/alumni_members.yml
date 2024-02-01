@@ -174,7 +174,7 @@
   education4:
 
 - name: Alexei Halpin
-  photo: images/teampic/AlexeiHalpin_old.jpg
+  photo: AlexeiHalpin_old.jpg
   info: Postdoctoral Fellow
   email:
   duration: 
@@ -184,5 +184,104 @@
   education3:
   education4:
 
+- name: Franklyn Jumu
+  photo: Franklyn_2.jpeg
+  info: Lab Technician
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Nicolas Dallaire
+  photo: Nicholas Dallaire_2019.jpg
+  info: Undergraduate student
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Cassandra Thompson
+  photo: Cassandra_Thompson_2019-01-18.jpg
+  info: Undergraduate student
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
   
+- name: Zyad Shehata
+  photo: Zyad_2019.jpeg
+  info: MSc Student, MPL Erlangen
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Malick Kouame
+  photo: Malick_v2.jpg
+  info: Undergraduate mechanical engineering researcher
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Aurélien Choloux
+  photo: Aurélien Choloux_July2018.jpg
+  info: Undergraduate Student
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+  
+- name: Ulises Hernandez Calzadillas 
+  photo: Ulises Hernandez-Calzadillas_July2018.jpg
+  info: Undergraduate Student in mechatronics
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Chang Gao 
+  photo: Chang_July2018_.jpg
+  info: Undergraduate student in biology
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+  
+- name: Chang Gao 
+  photo: Chang_July2018_.jpg
+  info: Undergraduate student in biology
+  email:
+  duration: 
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+    
   
