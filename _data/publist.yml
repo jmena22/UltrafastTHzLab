@@ -1,7 +1,7 @@
 - title: "Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz"
   image: Slide-image-4.jpg
   description: We demonstrate the ability to resolve non-reproducible phenomena at 50k frames per second, extracting each of the generated THz waveforms every 20 μs.
-  authors: N. Couture, W. Cui, M. Lippl, R. Ostic, D. J. Jubgang Fandio, E. K. Yalavarthi, A. V. Radhan, A. Gamouras, N. Joly, J.-M. Ménard.
+  authors: N. Couture, W. Cui, M. Lippl, R. Ostic, D. J. Jubgang Fandio, E. K. Yalavarthi, A. V. Radhan, A. Gamouras, N. Joly, J.-M. Ménard
   link:
     url: https://www.nature.com/articles/s41467-023-38354-3
     display: Nature Communications 14, 2595 (2023).
@@ -11,7 +11,7 @@
 - title: "Extremely large nonlinear response in crystalline quartz at THz frequencies"
   image: 
   description: 
-  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva.  
+  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva  
   link:
     url: https://arxiv.org/abs/2210.01926
     display: arXiv
@@ -20,7 +20,7 @@
 - title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
   image: 
   description: 
-  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva.  
+  authors: N. Couture, J. Schlosser, A. Ahmed, M. Wehbeh, G. Best, A. Gamouras, J.-M. Ménard
   link:
     url: https://opg.optica.org/ao/fulltext.cfm?uri=ao-62-15-4097&id=530759
     display: Applied Optics 62, 4097-4101 (2023)
@@ -29,7 +29,7 @@
 - title: "Metamaterial-based octave-wide terahertz bandpass filters"
   image: Alifilter.jpeg
   description:
-  authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard. 
+  authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard 
   link:
     url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-526&id=527935
     display: Photonics Research 11, 526-532 (2023)
@@ -37,24 +37,24 @@
   news1: 
 
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Arrays of functionalized graphene chemiresistors for selective sensing of volatile organic compounds"
+  image: 
+  description: 
+  authors: N. Alzate-Carvajal, J. Park, R. Rautela, Z. Comeau, L. Scarfe, I. Bargaoui, J.‑M. Ménard, S. Darling, B. Lessard, A. Luican-Mayer
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+    url: https://pubs.acs.org/doi/full/10.1021/acsaelm.2c01544
+    display: ACS Appl. Electron. Mater. 5, 3, 1514–1520 (2023)
+  highlight: 0
+  news1:   
+  news2: 
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+- title: "Scalable fabrication of nanogratings on GaP for efficient diffraction of near-infrared pulses and enhanced terahertz generation by optical rectification."
+  image: 
+  description: 
+  authors: M. Bashirpour, W. Cui, A. Gamouras, J.-M. Ménard
   link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
+    url: https://www.mdpi.com/2073-4352/12/5/684
+    display:  Crystals 2022, 12(5), 684 (2022)
   highlight: 0
   news2:
 
