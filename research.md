@@ -26,7 +26,7 @@ In one project, we design a system able to rapidly acquire successive THz wavefo
 
 In another project, we explore new techniques to detect THz radiation with unprecedented high sensitivity and fast response time [3]. Our configuration combines the advantages of a near-infrared single-photon counter with electro-optic sampling, a commonly used technique to time resolve a THz waveform. This detection technique relies on a nonlinear optical process. Here, we use this process to transfer all information carried by the THz wave to near-infrared photons that can be easily detected by commercial detectors. The use of a single-photon counter allows us to push our detection limit to the single photon. We believe this technology will contribute to address future needs in wireless communication systems to enable short-range data-hungry applications, like virtual reality or ultra-fast wireless data exchange between devices. Considering that the ultimate sensitivity of our configuration can approach the single-THz-photon resolution, interesting quantum THz experiments might soon be within reach.
 
-**Quantum molecular materials via light-matter hybridization"**.
+**Quantum molecular materials via light-matter hybridization**.
 
 [4]
 
