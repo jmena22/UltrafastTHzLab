@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Ménard Lab Lab at University of Ottawa."
+excerpt: "Ménard Lab at uOttawa."
 sitemap: false
 permalink: /allnews.html
 ---
