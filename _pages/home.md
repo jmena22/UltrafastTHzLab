@@ -46,15 +46,13 @@ permalink: /
   </a>
 </div>
 
-Welcome to the Ultrafast Terahertz (THz) Research Group at uOttawa!
+We are the Ultrafast Terahertz (THz) Research Group at uOttawa.
 
 THz photonics refers to the study and application of THz radiation, which includes electromagnetic waves within the frequency range of ~0.1 to ~10 terahertz (THz). This range lies between the microwave and infrared regions. Generating, detecting, and controlling THz waves is challenging. However, over the past decade, technological advancements have enabled scientists to begin exploiting their unique properties. For example, THz radiation can penetrate many non-conducting materials, making them useful for imaging, spectroscopy, and communication technologies. 
 
-Our research group stands at the crossroad of THz photonics, experimental condensed matter physics, and nonlinear optics. Our projects are inherently interdisciplinary, often conducted in collaboration with leading research groups and industry partners. Our current projects include the real-time THz spectroscopy of phenomena occuring on the µs time scale and the development of a single-THz-photon source to develop sensitive wireless communcation receivers and enable new quantum applications. We also use THz metasurfaces/metamaterials to enhance highly nonlinear optical phenomena and explore the intriguing regime of vibrational polaritonics. 
+Our research group stands at the crossroad of THz photonics, experimental condensed matter physics, and nonlinear optics. Our projects are inherently interdisciplinary, often conducted in collaboration with leading research groups and industry partners. Our current projects include the real-time THz spectroscopy of phenomena occuring on the µs time scale and the development of a single-THz-photon source to develop sensitive wireless communcation receivers and enable new quantum applications. We also use THz metasurfaces/metamaterials to enhance highly nonlinear optical effects and explore the intriguing regime of vibrational polaritonics. 
 
-Our group is affiliated with the [Max Planck - uOttawa Centre for Extreme and Quantum Photonics](https://www.uottawa.ca/research-innovation/), the [Joint Centre for Extreme Photonics (JCEP)](https://extremephotonics.com/) and the [Center for Quantum 2D Materials](https://qc2dm.physics.uottawa.ca/)
-
-We also benefit from the infrastructure provided by the Centre for Research in Photonics and the Centre for Advanced Materials Research
+Our group is affiliated with the [Max Planck - uOttawa Centre for Extreme and Quantum Photonics](https://www.uottawa.ca/research-innovation/), the [Joint Centre for Extreme Photonics (JCEP)](https://extremephotonics.com/) and the [Center for Quantum 2D Materials](https://qc2dm.physics.uottawa.ca/) We also benefit from the infrastructure provided by the Centre for Research in Photonics and the Centre for Advanced Materials Research.
 
 **Join us as we push the boundaries of science and technology, striving to unlock new potentials in the fascinating world of THz photonics [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
