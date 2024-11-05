@@ -24,7 +24,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/resized/Pic_CG_vers2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/images/resized/THzfilter_home.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/resized/THzfilter_home.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/resized/Single-pulse_home.jpg" alt="Slide 3" />
