@@ -21,19 +21,19 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Screenshot 2024-04-04 220900.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/resized/Pic_CG_vers2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Pic_CG_vers2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/images/resized/THzfilter_home.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SC_Fiber_12m_v10.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/resized/Single-pulse_home.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SC_Fiber_1p7m.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/resized/SC_home.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Screenshot 2024-04-04 221016.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/resized/SC_Fiber_1p7m_home.jpg" alt="Slide 5" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
