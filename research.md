@@ -28,6 +28,8 @@ In another project, we explore new techniques to detect THz radiation with unpre
 
 **Quantum molecular materials via light-matter hybridization**.
 
+![]({{ site.url }}{{ site.baseurl }}images/resized/Pic_CG_vers2.jpg){: : style="width: 50%; float: center; margin: 0px"}
+
 [4]
 
 
