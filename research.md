@@ -33,7 +33,7 @@ In another project, we explore new techniques to detect THz radiation with unpre
 
 **Nonlinear phenomena at low energies driven by high-field THz** 
 
-Finally, are also interested in developing new experimental geometry to achieve and explore the regime of high field THz [4]. Recently we demonstrated a unique high-field THz source with a spectral peak centered at 2.6 THz. The setup relies on optical rectification of intense near-infrared pulses inside a GaP nonlinear crystal to generate THz peak fields up to 300 kV/cm. Our technique takes advantage of a phase grating directly etched at the surface of GaP, which enables a tilted-pulse-front configuration that optimizes phase-matching conditions. This high-field THz source will be used to drive coherent phenomena and explore nonlinear effects in the region between 2 and 4 THz.
+Finally, are also interested in developing new experimental geometry to achieve and explore the regime of high-field THz [4]. Recently we demonstrated a unique high-field THz source with a spectral peak centered at 2.6 THz. The setup relies on optical rectification of intense near-infrared pulses inside a GaP nonlinear crystal to generate THz peak fields up to 300 kV/cm. Our technique takes advantage of a phase grating directly etched at the surface of GaP, which enables a tilted-pulse-front configuration that optimizes phase-matching conditions. This high-field THz source will be used to drive coherent phenomena and explore nonlinear effects in the region between 2 and 4 THz.
 
 [1]	N. Couture et al. Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz. Nature Communications 14, 2595 (2023)
 
