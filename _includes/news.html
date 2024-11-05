@@ -5,7 +5,8 @@
   {% for article in site.data.news | limit: 9 %}
     <div class="news-item" style="margin-bottom: 15px;">
       <p><strong>{{ article.date }}</strong></p>
-      <p>{{ article.headline | markdownify | strip_html }}</p> <!-- Strip HTML tags -->
+      <!-- Remove <p> tags around the headline, and directly render the text -->
+      <div>{{ article.headline | markdownify | strip_html }}</div> <!-- Stripped HTML, no <p> -->
     </div>
   {% endfor %}
 
