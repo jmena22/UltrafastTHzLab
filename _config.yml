@@ -10,8 +10,8 @@ title: Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Lab.
-baseurl: ""
-url: "https://avish009.github.io/avish009/"
+baseurl: "https://jmena22.github.io/UltrafastTHzLab/"
+url: ""
 
 include:
   - .htaccess
