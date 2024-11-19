@@ -1,3 +1,15 @@
+
+- title: "Hybrid architectures for terahertz molecular polaritonics"
+  image: images/resized/Pic_CG_vers2.jpg
+  description: We demonstrate major technical advances in cavity architecture to achieve the strong light-matter regime between THz radiation and an ensemble of molecules to enable new chemical and biological applications.
+  authors:A. Jaber, M. Reitz, A. Singh, A. Maleki, Y. Xin, B. T. Sullivan, K. Dolgaleva, R. W. Boyd, C. Genes, J.-M. Ménard 
+  link:
+    url: https://www.nature.com/articles/s41467-024-48764-6
+    display: Nature Communications 15, 4427 (2024)
+  highlight: 1
+    news1: See also [Sugar-coating quantum systems to harvest science](https://www.uottawa.ca/about-us/news-all/sugar-coating-quantum-systems-harvest-science) 
+    news2: and [Quantum Alchemy: Scientists Fuse Light and Sugar To Create New States of Matter](https://scitechdaily.com/quantum-alchemy-scientists-fuse-light-and-sugar-to-create-new-states-of-matter/) 
+
 - title: "Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz"
   image: /images/resized/Single-pulse_home.jpg
   description: We demonstrate real-time THz spectroscopy of low-energy states to monitor non-reproducible phenomena with a 20 μs resolution. 
@@ -6,25 +18,19 @@
     url: https://www.nature.com/articles/s41467-023-38354-3
     display: Nature Communications 14, 2595 (2023).
   highlight: 1
-  news2: See [news item](https://www.uottawa.ca/about-us/media/news/unveiling-invisible-breakthrough-spectroscopy-allow-discoveries-materials-physics) 
+  news1: See also [Unveiling the invisible: A breakthrough in spectroscopy to allow discoveries in materials physics](https://www.uottawa.ca/about-us/media/news/unveiling-invisible-breakthrough-spectroscopy-allow-discoveries-materials-physics) 
+  news2: and [A breakthrough approach that will facilitate discoveries in materials science](https://www.techexplorist.com/breakthrough-approach-facilitate-discoveries-materials-science/62030/) 
 
-- title: "Extremely large nonlinear response in crystalline quartz at THz frequencies"
-  image: 
-  description: 
-  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva  
+- title: "Zeptojoule detection of terahertz pulses by parametric frequency upconversion"
+  image: /images/resized/Single-pulse_home.jpg
+  description: Our nonlinear THz detection technique can detect a THz pulse with aJ energy (or 1000 photons) paving the way to sensitive wireless receiver and future quantum applications. 
+  authors: D. Jr. J. Fandio, A. Vishnuradhan, E. K. Yalavarthi, W. Cui, N. Couture, A. Gamouras, J.-M. Ménard
   link:
-    url: https://arxiv.org/abs/2210.01926
-    display: arXiv
-  highlight: 0
-  
-- title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
-  image: 
-  description: 
-  authors: N. Couture, J. Schlosser, A. Ahmed, M. Wehbeh, G. Best, A. Gamouras, J.-M. Ménard
-  link:
-    url: https://opg.optica.org/ao/fulltext.cfm?uri=ao-62-15-4097&id=530759
-    display: Applied Optics 62, 4097-4101 (2023)
-  highlight: 0
+    url: https://opg.optica.org/ol/abstract.cfm?uri=ol-49-6-1556
+    display: Optics letters 49, 6, 1556 (2024)
+  highlight: 1
+  news1: 
+  news2: 
 
 - title: "Metamaterial-based octave-wide terahertz bandpass filters"
   image: images/resized/THzfilter_home.jpeg
@@ -35,6 +41,19 @@
     display: Photonics Research 11, 526-532 (2023)
   highlight: 1
   news1: 
+
+
+  
+- title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
+  image: 
+  description: 
+  authors: N. Couture, J. Schlosser, A. Ahmed, M. Wehbeh, G. Best, A. Gamouras, J.-M. Ménard
+  link:
+    url: https://opg.optica.org/ao/fulltext.cfm?uri=ao-62-15-4097&id=530759
+    display: Applied Optics 62, 4097-4101 (2023)
+  highlight: 0
+
+
 
 
 - title: "Arrays of functionalized graphene chemiresistors for selective sensing of volatile organic compounds"
@@ -57,3 +76,12 @@
     display:  Crystals 2022, 12(5), 684 (2022)
   highlight: 0
   news2:
+
+- title: "Extremely large nonlinear response in crystalline quartz at THz frequencies"
+  image: 
+  description: 
+  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva  
+  link:
+    url: https://arxiv.org/abs/2210.01926
+    display: arXiv
+  highlight: 0
