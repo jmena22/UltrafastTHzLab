@@ -1,4 +1,37 @@
+- title: "Hybrid architectures for terahertz molecular polaritonics"
+  image: images/resized/Pic_CG_vers2.jpg
+  description: "We demonstrate major technical advances in cavity architecture to achieve the strong light-matter regime between THz radiation and an ensemble of molecules to enable new chemical and biological applications."
+  authors: A. Jaber, M. Reitz, A. Singh, A. Maleki, Y. Xin, B. T. Sullivan, K. Dolgaleva, R. W. Boyd, C. Genes, J.-M. Ménard
+  link:
+    url: https://www.nature.com/articles/s41467-024-48764-6
+    display: "Nature Communications 15, 4427 (2024)"
+  highlight:
+    news1: "See also [Sugar-coating quantum systems to harvest science](https://www.uottawa.ca/about-us/news-all/sugar-coating-quantum-systems-harvest-science)"
+    news2: "and [Quantum Alchemy: Scientists Fuse Light and Sugar To Create New States of Matter](https://scitechdaily.com/quantum-alchemy-scientists-fuse-light-and-sugar-to-create-new-states-of-matter/)"
 
+- title: "Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz"
+  image: /images/resized/Single-pulse_home.jpg
+  description: "We demonstrate real-time THz spectroscopy of low-energy states to monitor non-reproducible phenomena with a 20 μs resolution."
+  authors: N. Couture, W. Cui, M. Lippl, R. Ostic, D. J. Jubgang Fandio, E. K. Yalavarthi, A. V. Radhan, A. Gamouras, N. Joly, J.-M. Ménard
+  link:
+    url: https://www.nature.com/articles/s41467-023-38354-3
+    display: "Nature Communications 14, 2595 (2023)"
+  highlight:
+    news1: "See also [Unveiling the invisible: A breakthrough in spectroscopy to allow discoveries in materials physics](https://www.uottawa.ca/about-us/media/news/unveiling-invisible-breakthrough-spectroscopy-allow-discoveries-materials-physics)"
+    news2: "and [A breakthrough approach that will facilitate discoveries in materials science](https://www.techexplorist.com/breakthrough-approach-facilitate-discoveries-materials-science/62030/)"
+
+- title: "Zeptojoule detection of terahertz pulses by parametric frequency upconversion"
+  image: images/Papers/Single photon detection.png
+  description: "Our nonlinear THz detection technique can detect a THz pulse with aJ energy (or 1000 photons) paving the way to sensitive wireless receiver and future quantum applications."
+  authors: D. Jr. J. Fandio, A. Vishnuradhan, E. K. Yalavarthi, W. Cui, N. Couture, A. Gamouras, J.-M. Ménard
+  link:
+    url: https://opg.optica.org/ol/abstract.cfm?uri=ol-49-6-1556
+    display: "Optics letters 49, 6, 1556 (2024)"
+  highlight:
+    news1: null
+    news2: null
+
+# Continue formatting other entries similarly...
 - title: "Hybrid architectures for terahertz molecular polaritonics"
   image: images/resized/Pic_CG_vers2.jpg
   description: We demonstrate major technical advances in cavity architecture to achieve the strong light-matter regime between THz radiation and an ensemble of molecules to enable new chemical and biological applications.
