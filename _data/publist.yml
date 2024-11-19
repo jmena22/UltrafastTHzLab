@@ -1,5 +1,5 @@
 - title: Hybrid architectures for terahertz molecular polaritonics
-  image: images/resized/Pic_CG_vers2.jpg
+  image: Pic_CG_vers2.jpg
   description: We demonstrate major technical advances in cavity architecture to
     achieve the strong light-matter regime between THz radiation and an ensemble
     of molecules to enable new chemical and biological applications.
@@ -14,7 +14,7 @@
 
 
 - title: "Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz"
-  image: /images/resized/Single-pulse_home.jpg
+  image: Single-pulse_home.jpg
   description: We demonstrate real-time THz spectroscopy of low-energy states to monitor non-reproducible phenomena with a 20 μs resolution. 
   authors: N. Couture, W. Cui, M. Lippl, R. Ostic, D. J. Jubgang Fandio, E. K. Yalavarthi, A. V. Radhan, A. Gamouras, N. Joly, J.-M. Ménard
   link:
@@ -25,7 +25,7 @@
   news2: and [A breakthrough approach that will facilitate discoveries in materials science](https://www.techexplorist.com/breakthrough-approach-facilitate-discoveries-materials-science/62030/) 
 
 - title: "Zeptojoule detection of terahertz pulses by parametric frequency upconversion"
-  image: images/pubpic/Single photon detection.png
+  image: Singlephotondetection.png
   description: Our nonlinear THz detection technique can detect a THz pulse with aJ energy (or 1000 photons) paving the way to sensitive wireless receiver and future quantum applications. 
   authors: D. Jr. J. Fandio, A. Vishnuradhan, E. K. Yalavarthi, W. Cui, N. Couture, A. Gamouras, J.-M. Ménard
   link:
@@ -37,7 +37,7 @@
 
 
 - title: "Metamaterial-based octave-wide terahertz bandpass filters"
-  image: images/resized/THzfilter_home.jpeg
+  image: THzfilter_home.jpeg
   description:
   authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard 
   link:
