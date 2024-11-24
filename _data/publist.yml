@@ -297,16 +297,6 @@
   news1: 
   news2: 
 
-- title: "Active phase control of terahertz pulses using a dynamic waveguide"
-  image: 
-  description: 
-  authors: "L. Gingras, W. Cui, A. W. Schiff-Kearn, J.-M. Ménard, D. G. Cooke"
-  link:
-    url: "https://doi.org/10.1364/OE.26.013876"
-    display: "Optics Express 26, 13876 (2018)"
-  highlight: 0
-  news1: 
-  news2: 
 - title: "Higher-order mode suppression in twisted single-ring hollow-core photonic crystal fibers"
   image: 
   description: 
@@ -314,6 +304,28 @@
   link:
     url: "https://doi.org/10.1364/OL.42.002074"
     display: "Optics Letters 42, 2074 (2017)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Phase-matched electric-field-induced second-harmonic generation in Xe-filled hollow-core PCF"
+  image: 
+  description: 
+  authors: "J.-M. Ménard and P. St.J. Russell"
+  link:
+    url: "https://doi.org/10.1364/OL.40.003679"
+    display: "Optics Letters 40, 3679 (2015)"
+  highlight: 0
+  news1: 
+  news2: 
+
+  - title: "Microcavity design for low threshold polariton condensation with ultrashort optical pulse excitation"
+  image: 
+  description: 
+  authors: "C. Poellmann, U. Leierseder, E. Galopin, A. Lemaître, A. Amo, J. Bloch, R. Huber, J.-M. Ménard"
+  link:
+    url: "https://doi.org/10.1063/1.4921586"
+    display: "Journal of Applied Physics 117, 205702 (2015)"
   highlight: 0
   news1: 
   news2: 
