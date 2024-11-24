@@ -145,7 +145,7 @@
 
 - title: "Terahertz nonlinear spectroscopy of water vapor"
   image: 
-  description: "Exploration of terahertz nonlinear spectroscopy techniques applied to water vapor, shedding light on the unique interactions in THz spectroscopy."
+  description: 
   authors: "P. Rasekh, A. Safari, M. Yildirim, R. Bhardwaj, J.-M. Ménard, K. Dolgaleva, R. W. Boyd"
   link:
     url: "https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c00056"
@@ -167,7 +167,7 @@
 
 - title: "Speeding up ultrafast spectroscopy"
   image: 
-  description: "A breakthrough in ultrafast spectroscopy that increases measurement speeds, potentially enhancing research in fields such as quantum mechanics and material science."
+  description: 
   authors: "R. Ostic, J.-M. Ménard"
   link:
     url: "https://physics.aps.org/articles/v14/23"
@@ -200,7 +200,7 @@
 
 - title: "Ultra-high-Q resonances in plasmonic metasurfaces"
   image: 
-  description: "This work examines ultra-high-Q resonances in plasmonic metasurfaces, revealing new possibilities for optical sensing and nanophotonics."
+  description: 
   authors: "M. Saad-Bin-Alam, O. Reshef, Y. Mamchur, M. Z. Alam, G. Carlow, J. Upham, B. T. Sullivan, J.-M. Ménard, M. J. Huttunen, R. W. Boyd and K. Dolgaleva"
   link:
     url: "https://www.nature.com/articles/s41467-021-21196-2"
@@ -219,4 +219,101 @@
   highlight: 0
   news1: 
   news2: 
+  
+- title: "Ultrafast modulation of the spectral filtering properties of a THz metasurface"
+  image: 
+  description: 
+  authors: "L. Gingras, A. Jaber, A. Maleki, O. Reshef, K. Dolgaleva, R. W. Boyd, J.-M. Ménard"
+  link:
+    url: "https://doi.org/10.1364/OE.395508"
+    display: "Optics Express 28, 20296 (2020)"
+  highlight: 0
+  news1: 
+  news2: 
 
+- title: "Mechanistic insight into the limiting factors of graphene-based environmental sensors"
+  image: 
+  description: 
+  authors: "R. Rautela, S. Scarfe, J.-M. Guay, P. Lazar, M. Pykal, S. Azimi, C. Grenapin, J. Boddison-Chouinard, A. Halpin, W. Wang, L. Andrzejewski, R. Plumadore, J. Park, J.-M. Ménard, M. Otyepka, A. Luican-Mayer"
+  link:
+    url: "https://pubs.acs.org/doi/abs/10.1021/acsami.0c09051"
+    display: "ACS Appl. Mater. Interfaces 12, 39764 (2020)"
+  highlight: 0
+  news1: 
+  news2:   
+
+- title: "Enhanced terahertz detection efficiency via grating-assisted noncollinear electro-optic sampling"
+  image: 
+  description: 
+  authors: "A. Halpin, W. Cui, A. W. Schiff-Kearn, . M. Awan, K. Dolgaleva, J.-M. Ménard"
+  link:
+    url: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.031003"
+    display: "Physical Review Applied 12, 031003 (2019)"
+  highlight: 0
+  news1: 
+  news2:   
+
+- title: "Multi-resonant high-Q plasmonic metasurfaces"
+  image: 
+  description: 
+  authors: "O. Reshef, M. Saad-Bin-Alam, M. J. Huttunen, G. Carlow, B. T. Sullivan, J.‑M. Ménard, K. Dolgaleva, and R. W. Boyd"
+  link:
+    url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.9b02638"
+    display: "Nano Letters 19, 6429 (2019)"
+  highlight: 0
+  news1: 
+  news2:   
+
+- title: "Optical pulse structuring in gas-filled hollow-core kagomé PCF for generation and detection of phase-locked multi-THz pulse"
+  image: 
+  description: 
+  authors: "A. Halpin, N. Couture and J.-M. Ménard"
+  link:
+    url: "https://www.osapublishing.org/ome/abstract.cfm?uri=ome-9-7-3115"
+    display: "Optical Materials Express 9, 3115 (2019)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Broadband and tunable time-resolved THz system using argon-filled hollow-core photonic crystal fiber"
+  image: 
+  description: 
+  authors: "W. Cui, A. Schiff-Kearn, E. Zhang, N. Couture, F. Tani, D. Novoa, P. St.J. Russell, J.-M. Ménard"
+  link:
+    url: "https://aip.scitation.org/doi/10.1063/1.5043270"
+    display: "APL Photonics 3, 111301 (2018)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Active phase control of terahertz pulses using a dynamic waveguide"
+  image: 
+  description: 
+  authors: "L. Gingras, W. Cui, A. W. Schiff-Kearn, J.-M. Ménard, D. G. Cooke"
+  link:
+    url: "https://doi.org/10.1364/OE.26.013876"
+    display: "Optics Express 26, 13876 (2018)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Active phase control of terahertz pulses using a dynamic waveguide"
+  image: 
+  description: 
+  authors: "L. Gingras, W. Cui, A. W. Schiff-Kearn, J.-M. Ménard, D. G. Cooke"
+  link:
+    url: "https://doi.org/10.1364/OE.26.013876"
+    display: "Optics Express 26, 13876 (2018)"
+  highlight: 0
+  news1: 
+  news2: 
+- title: "Higher-order mode suppression in twisted single-ring hollow-core photonic crystal fibers"
+  image: 
+  description: 
+  authors: "N. N. Edavalath, M. C. Günendi, R. Beravat, G. K. L. Wong, M. H. Frosz, J.-M. Ménard, P. St.J. Russell"
+  link:
+    url: "https://doi.org/10.1364/OL.42.002074"
+    display: "Optics Letters 42, 2074 (2017)"
+  highlight: 0
+  news1: 
+  news2: 
