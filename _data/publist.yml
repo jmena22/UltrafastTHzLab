@@ -106,3 +106,117 @@
     url: https://www.mdpi.com/1424-8220/22/6/2383
     display: Sensors 22, 2383 (2022)
   highlight: 0
+
+- title: "Broadband and high-sensitivity time-resolved THz system using grating-assisted titled-pulse-front phase matching"
+  image: 
+  description: 
+  authors: W. Cui, K. M. Awan, R. Huber, K. Dolgaleva, J.-M. Ménard
+  link:
+    url: https://doi.org/10.1002/adom.202101136
+    display: Advanced Optical Materials 10, 2101136 (2022)
+  highlight: 0
+  
+- title: "Graphene field effect transistors: a sensitive platform for detecting sarin"
+  image: 
+  description: 
+  authors: N. Alzate-Carvajal, J. Park, M. Pykal, P. Lazar, R. Rautela, S. Scarfe, L. Scarfe, J.-M. Ménard, M. Otyepka, A. Luican-Mayer
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acsami.1c17770
+    display: ACS Appl. Mater. Interfaces 13, 61751-61757 (2021)
+  highlight: 0
+  
+- title: "UV illumination as a method to improve the performance of gas sensors based on graphene field-effect transistors"
+  image: 
+  description: 
+  authors: J. Park, R. Rautela, N. Alzate-Carvajal, S. Scarfe, L. Scarfe, L. Alarie, A. Luican-Mayer, J.-M. Ménard
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acssensors.1c01783
+    display: ACS Sensors  6 (12), 4417-4424 (2021)
+  highlight: 0
+
+- title: "Front-induced transitions control THz waves"
+  image: 
+  description: 
+  authors: A. W. Schiff-Kearn, L. Gingras, S. Bernier, N. Chamanara, K. Agarwal, J.-M. Ménard, D. G. Cooke
+  link:
+    url: https://www.nature.com/articles/s42005-021-00667-4
+    display: Communications Physics 4, 162 (2021)
+  highlight: 0
+
+- title: "Terahertz nonlinear spectroscopy of water vapor"
+  image: 
+  description: "Exploration of terahertz nonlinear spectroscopy techniques applied to water vapor, shedding light on the unique interactions in THz spectroscopy."
+  authors: "P. Rasekh, A. Safari, M. Yildirim, R. Bhardwaj, J.-M. Ménard, K. Dolgaleva, R. W. Boyd"
+  link:
+    url: "https://pubs.acs.org/doi/abs/10.1021/acsphotonics.0c00878"
+    display: "ACS Photonics 8, 1683 (2021)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Physics graduate student employment: what we can learn from professional social media"
+  image: 
+  description: "This study analyzes the use of professional social media in aiding physics graduate student employment, providing insights into recruitment trends."
+  authors: "E. M. Tonita, L. Szulakowska, J. Baxter, E. L. Flannigan, N. Janakiraman Narayanan, J.-M. Ménard"
+  link:
+    url: "https://arxiv.org/abs/2106.04294"
+    display: "arXiv:2106.04294 (2021)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Speeding up ultrafast spectroscopy"
+  image: 
+  description: "A breakthrough in ultrafast spectroscopy that increases measurement speeds, potentially enhancing research in fields such as quantum mechanics and material science."
+  authors: "R. Ostic, J.-M. Ménard"
+  link:
+    url: "https://physics.aps.org/articles/10.1103/Physics.14.23"
+    display: "Physics 14, 23 (2021)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Polarization-resolved supercontinuum generated in a germania-doped photonic crystal fiber"
+  image: 
+  description: "A detailed study on polarization-resolved supercontinuum generation in germania-doped photonic crystal fibers, contributing to advances in fiber optics."
+  authors: "N. Couture, R. Ostic, O. H. Reddy, A. K. Kar, M. C. Paul, J.-M. Ménard"
+  link:
+    url: "https://iopscience.iop.org/article/10.1088/2515-7647/abe3a9"
+    display: "Journal of Physics: Photonics 3, 025002 (2021)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Systematic THz study of the substrate effect in limiting the mobility of graphene"
+  image: 
+  description: "An investigation into how the substrate affects the mobility of graphene, providing insights for improving graphene-based devices."
+  authors: "S. Scarfe, W. Cui, A. Luican-Mayer, J.-M. Ménard"
+  link:
+    url: "https://www.nature.com/articles/s41598-021-88153-y"
+    display: "Scientific Reports 11, 8729 (2021)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Ultra-high-Q resonances in plasmonic metasurfaces"
+  image: 
+  description: "This work examines ultra-high-Q resonances in plasmonic metasurfaces, revealing new possibilities for optical sensing and nanophotonics."
+  authors: "M. Saad-Bin-Alam, O. Reshef, Y. Mamchur, M. Z. Alam, G. Carlow, J. Upham, B. T. Sullivan, J.-M. Ménard, M. J. Huttunen, R. W. Boyd and K. Dolgaleva"
+  link:
+    url: "https://www.nature.com/articles/s41467-021-24953-5"
+    display: "Nature Communications 12, 974 (2021)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Propagation of broadband THz pulses: effects of dispersion, diffraction and time-varying nonlinear refraction"
+  image: 
+  description: "A comprehensive study on the propagation of broadband terahertz pulses, focusing on the effects of dispersion, diffraction, and nonlinear refraction."
+  authors: "P. Rasekh, M. Saliminabi, M. Yildirim, R. W. Boyd, J.-M. Ménard, K. Dolgaleva"
+  link:
+    url: "https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-3-3237&id=456797"
+    display: "Optics Express 28, 3237 (2020)"
+  highlight: 0
+  news1: 
+  news2: 
+
