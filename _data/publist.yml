@@ -319,13 +319,156 @@
   news1: 
   news2: 
 
-  - title: "Microcavity design for low threshold polariton condensation with ultrashort optical pulse excitation"
+- title: "Microcavity design for low threshold polariton condensation with ultrashort optical pulse excitation"
   image: 
   description: 
   authors: "C. Poellmann, U. Leierseder, E. Galopin, A. Lemaître, A. Amo, J. Bloch, R. Huber, J.-M. Ménard"
   link:
     url: "https://doi.org/10.1063/1.4921586"
     display: "Journal of Applied Physics 117, 205702 (2015)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Raman amplification of pure side-seeded higher-order modes in hydrogen-filled hollow-core PCF"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, B. M. Trabold, A. Abdolvand, P. St.J. Russell"
+  link:
+    url: "https://doi.org/10.1364/OE.23.000895"
+    display: "Optics Express 23, 895 (2015)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Revealing the dark side of a bright exciton-polariton condensate"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, C. Poellmann, M. Porer, U. Leierseder, E. Galopin, A. Lemaître, A. Amo, J. Bloch, R. Huber"
+  link:
+    url: "https://www.nature.com/articles/ncomms5648"
+    display: "Nature Communications 5, 4648 (2014)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Non-thermal separation of electronic and structural orders in a persisting charge density wave"
+  image: 
+  description: 
+  authors: "M. Porer, U. Leierseder, J.-M. Ménard, H. Dachraoui, L. Mouchliadis, I. E. Perakis, U. Heinzmann, J. Demsar, K. Rossnagel, R. Huber"
+  link:
+    url: "http://www.nature.com/nmat/journal/v13/n9/full/nmat4042.html"
+    display: "Nature Materials 13, 857 (2014)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Shot noise reduced Terahertz detection via spectrally postfiltered electro-optic sampling"
+  image: 
+  description: 
+  authors: "M. Porer, J.-M. Ménard, R. Huber"
+  link:
+    url: "https://doi.org/10.1364/OL.39.002435"
+    display: "Optics Letters 39, 2435 (2014)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Nonadiabatic switching of a photonic bandstructure: ultrastrong light-matter coupling and slow-down of light"
+  image: 
+  description: 
+  authors: "M. Porer, J.-M. Ménard, A. Leitenstorfer, R. Huber, R. Degl’Innocenti, S. Zanotto, G. Biasiol, L. Sorba, A. Tredicucci"
+  link:
+    url: "https://doi.org/10.1103/PhysRevB.85.081302"
+    display: "Physical Review B Rapid 85, 081302(R) (2012)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Ultrafast optical imaging of the spin Hall effect of light in semiconductors"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, A. E. Mattacchione, H. M. van Driel, C. Hautmann, M. Betz"
+  link:
+    url: "https://doi.org/10.1103/PhysRevB.82.045303"
+    display: "Physical Review B 82, 045303 (2010)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Spin Hall effect of light in a semiconductor"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, A. E. Mattacchione, M. Betz, H. M. van Driel"
+  link:
+    url: ""
+    display: " Journal of Physics in Canada 65, 132 (2009)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Imaging the spin Hall effect of light inside semiconductors via absorption"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, A. E. Mattacchione, M. Betz, H. M. van Driel"
+  link:
+    url: "https://doi.org/10.1364/OL.34.002312"
+    display: "Optics Letters 34, 2312 (2009)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "All-optical coherently controlled terahertz ac charge currents from excitons in semiconductors"
+  image: 
+  description: 
+  authors: "C. Sames, J.-M. Ménard, M. Betz, A. L. Smirl, H. M. van Driel"
+  link:
+    url: "https://doi.org/10.1103/PhysRevB.79.045208"
+    display: "Physical Review B 79, 045208 (2009)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Coherently Controlled Ballistic Charge Currents Injected in Single-Walled Carbon Nanotubes and Graphite"
+  image: 
+  description: 
+  authors: "R. W. Newson, J.-M. Ménard, C. Sames, M. Betz and H. M. van Driel"
+  link:
+    url: "https://pubs.acs.org/doi/10.1021/nl073305l"
+    display: "Nano Letters 8, 1586 (2008)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Single-beam differential z-scan technique"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, M. Betz, I. Sigal, H. M. van Driel"
+  link:
+    url: "https://doi.org/10.1364/AO.46.002119"
+    display: "Applied optics 46, 2119 (2007)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Intensity and polarization dependences of the supercontinuum generation in birefringent and highly nonlinear microstructured fibers"
+  image: 
+  description: 
+  authors: "A. Proulx, J.-M. Ménard, N. Hô, J. Laniel, R. Vallée, C. Paré"
+  link:
+    url: "https://doi.org/10.1364/OE.11.003338"
+    display: "Optics express 11, 3338 (2003)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Refractive index measurements of planar chalcogenide thin film"
+  image: 
+  description: 
+  authors: "J. M. Laniel, J.-M. Ménard, K. Turcotte, A. Villeneuve, R. Vallée, C. Lopez, K. A. Richardson"
+  link:
+    url: "https://doi.org/10.1016/S0022-3093(03)00527-1"
+    display: "Journal of non-crystalline solids 328, 183 (2003)"
   highlight: 0
   news1: 
   news2: 
