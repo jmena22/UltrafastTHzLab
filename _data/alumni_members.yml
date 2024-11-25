@@ -7,6 +7,7 @@
   education1:
   education2: 
   education3:
+  
 - name: Sharif Hasan
   photo:
   info: Undergraduate student
@@ -16,6 +17,7 @@
   education1:
   education2: 
   education3:
+  
 - name: Ilhem Bargaoui
   photo: Ilhem Bargaoui_2.jpg
   info: PhD student - (Co-supervision - University Tunis El Manar)
@@ -36,6 +38,7 @@
   education2:
   education3:
   education4:
+  
 - name: Nicolas Couture
   photo: Nicolas Couture_July2018.jpg
   info: PhD student
@@ -66,6 +69,7 @@
   education2:
   education3:
   education4:
+  
 - name: Fabien Lefebvre
   photo:
   info: Undergraduate student
@@ -76,6 +80,7 @@
   education2:
   education3:
   education4:
+  
 - name: Mohammad Bashirpour
   photo: MohammadBashirpour_2.jpg
   info: Postdoctoral Fellow
