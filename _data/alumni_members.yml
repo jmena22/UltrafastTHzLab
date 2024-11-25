@@ -1,5 +1,5 @@
 - name: Wei Cui
-  photo: WeiCui_.jpeg
+  photo: WeiCui_.jpg
   info: PhD student
   duration: Fall 2024 
   email:
@@ -501,7 +501,6 @@
   education3:
   education4:
 
-
 - name: Aurélien Choloux
   photo: Aurélien Choloux_July2018.jpg
   info: Undergraduate Student
@@ -512,7 +511,6 @@
   education2:
   education3:
   education4:
-
   
 - name: Ulises Hernandez Calzadillas 
   photo: Ulises Hernandez-Calzadillas_July2018.jpg
@@ -525,7 +523,7 @@
   education3:
   education4:
 
- - name: Magdalena Richardson 
+- name: Magdalena Richardson 
   photo:
   info: Technician
   email:
@@ -549,7 +547,7 @@
   education3:
   education4:
 
-  - name: Attouglé Malick Kouamé
+- name: Attouglé Malick Kouamé
   photo: Malick_v2.jpg
   info: Undergraduate student
   email:
@@ -561,7 +559,7 @@
   education4:
 
   
- - name: Lionel Dylan
+- name: Lionel Dylan
   photo: 
   info: Undergraduate student
   email:
@@ -572,7 +570,7 @@
   education3:
   education4:
 
- - name: Emily Zhang
+- name: Emily Zhang
   photo: 
   info: Undergraduate student
   email:
@@ -583,7 +581,7 @@
   education3:
   education4:
 
- - name: Adrien Rousseau
+- name: Adrien Rousseau
   photo: 
   info: Undergraduate student
   email:
@@ -594,7 +592,7 @@
   education3:
   education4:
 
- - name: Thomas Ruska
+- name: Thomas Ruska
   photo: 
   info: Undergraduate student
   email:
@@ -616,7 +614,7 @@
   education3:
   education4:
 
- - name: Zi Qi Lin
+- name: Zi Qi Lin
   photo: 
   info: Undergraduate student
   email:
@@ -627,7 +625,7 @@
   education3:
   education4:
 
- - name: Yongxin Liu
+- name: Yongxin Liu
   photo: 
   info: Undergraduate student
   email:
@@ -637,6 +635,3 @@
   education2:
   education3:
   education4:
-
-
-  
