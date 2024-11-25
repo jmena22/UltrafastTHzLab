@@ -1,37 +1,49 @@
+
+
 - name: Wei Cui
-  photo: WeiCui_.jpeg
+  #photo: WeiCui_.jpeg
   info: PhD student
   duration: Fall 2024 
-  email: wcui065@uottawa.ca
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
+- name: Sharif Hasan
+  photo:
+  info: Undergraduate student
+  duration: Summer 2024 
+  email:
   number_educ: 0
   education1:
   education2: 
   education3:
 
 - name: Ilhem Bargaoui
-  photo: Ilhem Bargaoui_2.jpg
+  #photo: Ilhem Bargaoui_2.jpg
   info: PhD student - (Co-supervision - University Tunis El Manar)
   duration: Spring 2024
-  email: ilhem.bargaoui@etudiant-fst.utm.tn
+  email:
   number_educ: 0
   education1: 
   education2: 
   education3: 
   education4: 
-  
+
 - name: Défi Junior Jubgang Fandio
-  photo: Défi_2.jpg
+  #photo: Défi_2.jpg
   duration: Fall 2023
   info: Postdoctoral Fellow
-  email: djubgang@uottawa.ca
+  email:
   number_educ: 0
-  education1: University of Sherbrooke
+  education1:
   education2:
   education3:
   education4:
 
 - name: Nicolas Couture
-  photo: Nicolas Couture_July2018.jpg
+  #photo: Nicolas Couture_July2018.jpg
   info: PhD student
   duration: Fall 2023
   email: ncout007@uottawa.ca
@@ -41,7 +53,7 @@
   education3:
   
 - name: Avinash Singh
-  photo: Avinash_2.jpg
+  #photo: Avinash_2.jpg
   info: Postdoctoral Fellow
   email: asingh8@uottawa.ca
   duration: Fall 2022
@@ -51,10 +63,32 @@
   education3:
   education4:
 
+- name: Jakob Schlosser
+  #photo: Avinash_2.jpg
+  info: Visiting student
+  email:
+  duration: Fall 2022
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Fabien Lefebvre
+  photo:
+  info: Undergraduate student
+  email: 
+  duration: Fall 2022
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
 - name: Mohammad Bashirpour
-  photo: MohammadBashirpour_2.jpg
+  #photo: MohammadBashirpour_2.jpg
   info: Postdoctoral Fellow
-  email: mohammad.bashirpour@gmail.com
+  email:
   duration: Winter 2022
   number_educ: 0
   education1: 
@@ -63,7 +97,7 @@
   education4:
 
 - name: Jaewoo Park
-  photo: Jaewoo_2.jpg
+  #photo: Jaewoo_2.jpg
   info: Postdoctoral Fellow
   email: jpark4@uottawa.ca
   duration: Winter 2022
@@ -74,10 +108,10 @@
   education4:
 
 - name: Rachel Ostic
-  photo: RachelOstic_2019.jpg
+  #photo: RachelOstic_2019.jpg
   info: MSc student
-  email: rosti049@uottawa.ca
-  duration: 
+  email:
+  duration: Fall 2021
   number_educ: 0
   education1: 
   education2:
@@ -85,10 +119,10 @@
   education4:
 
 - name: Guozhen Xu
-  photo: Guozheng_2.jpg
+  #photo: Guozheng_2.jpg
   info: Undergraduate student
   email: 
-  duration: 
+  duration: Fall 2021
   number_educ: 0
   education1: 
   education2:
@@ -96,21 +130,33 @@
   education4:
 
 - name: Xiangyu Zhou
-  photo: Xiangyu_2.jpg
+  #photo: Xiangyu_2.jpg
   info: Undergraduate student
   email: 
-  duration: 
+  duration: Fall 2021
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-- name: Jason Mclaurin
-  photo: Jason Mclaurin_1_.jpg
+- name: Lucas Scarfe
+  photo:
   info: Undergraduate student
-  email: 
-  duration: 
+  email:
+  duration: Fall 2021
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+
+- name: Franklyn Jumu
+  #photo: Franklyn_2.jpeg
+  info: Lab Technician
+  email:
+  duration: Summer 2021
   number_educ: 0
   education1: 
   education2:
@@ -118,10 +164,21 @@
   education4:
 
 - name: Aidan Baker-Murray
-  photo: Aidan-Baker-Murray_2019_v3_.jpg
+  #photo: Aidan-Baker-Murray_2019_v3_.jpg
   info: Postdoctoral Fellow
   email:
-  duration: 
+  duration: Summer 2021
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Jason Mclaurin
+  #photo: Jason Mclaurin_1_.jpg
+  info: Undergraduate student
+  email: 
+  duration: Summer 2021
   number_educ: 0
   education1: 
   education2:
@@ -129,7 +186,7 @@
   education4:
   
 - name: Melisa Ozen
-  photo: Melisa_pic_2.jpg
+  #photo: Melisa_pic_2.jpg
   info: Undergraduate student
   email: 
   duration: 
@@ -140,32 +197,87 @@
   education4:
 
 - name: Ranjana Rautela
-  photo: Ranjana_Rautela_Oct2019_.jpg
+  #photo: Ranjana_Rautela_Oct2019_.jpg
   info: Postdoctoral Fellow
   email:
-  duration: 
+  duration: Summer 2021
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-- name: Samantha Scarfe
-  photo: SamanthaScarfe_2019.jpg
-  info: MSc student
+- name: Geunchang Choi
+  photo: 
+  info: Postdoctoral Fellow
   email:
-  duration: 
+  duration: Summer 2021
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-- name: Aidan Schiff-Kearn
-  photo: Aidan Schiff-Kearn_July2018.jpeg
-  info: PhD student - McGill University 
+- name: Erika Natalia Alzate Carvajal
+  photo: 
+  info: Postdoctoral Fellow
   email:
-  duration: MSc student at Menard lab
+  duration: Summer 2021
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Yomna Elsahli
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Summer 2021
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Mohamad Ali Jarkas
+  photo:
+  info: Undergraduate student
+  email:
+  duration: Summer 2021
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Justin Power
+  photo:
+  info: Undergraduate student
+  email:
+  duration: Summer 2021
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Maxime Richard
+  photo:
+  info: Undergraduate student
+  email:
+  duration: Summer 2021
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+  
+- name: Tanner Gobel
+  #photo: SamanthaScarfe_2019.jpg
+  info: Undergraduate student
+  email:
+  duration: Spring 2021
   number_educ: 0
   education1: 
   education2:
@@ -173,32 +285,76 @@
   education4:
 
 - name: Lauren Gingras
-  photo: Lauren Gingras - 2019-v2.jpg
+  #photo: Lauren Gingras - 2019-v2.jpg
   info: Postdoctoral Fellow
   email:
-  duration: 
+  duration: Winter 2020
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-- name: Alexei Halpin
-  photo: AlexeiHalpin_old.jpg
-  info: Postdoctoral Fellow
+- name: Murat Yildirim
+  #photo: Chang_July2018_.jpg
+  info: Postdoctoral fellow
   email:
-  duration: 
+  duration: Winter 2020
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-- name: Franklyn Jumu
-  photo: Franklyn_2.jpeg
-  info: Lab Technician
+- name: Andy Ruan
+  photo:
+  info: Undergraduate student
   email:
-  duration: 
+  duration: Fall 2020
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Tian Yu (John) Zhao
+  photo:
+  info: Undergraduate student
+  email:
+  duration: Fall 2020
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Grégoire Berger-Malette
+  photo:
+  info: Undergraduate student
+  email:
+  duration: Fall 2020
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Samantha Scarfe
+  #photo: SamanthaScarfe_2019.jpg
+  info: MSc student
+  email:
+  duration: Fall 2020
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: John Corsten
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Summer 2020
   number_educ: 0
   education1: 
   education2:
@@ -206,10 +362,120 @@
   education4:
 
 - name: Nicolas Dallaire
-  photo: Nicholas Dallaire_2019.jpg
+  #photo: Nicholas Dallaire_2019.jpg
   info: Undergraduate student
   email:
-  duration: 
+  duration: Spring 2020
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Djeneba Keita
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Spring 2020
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Jamie Harrison
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Spring 2020
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Youyou Song
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Fall 2019
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Xingyu Ouyang
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Fall 2019
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Zyad Shehata
+  #photo: Lauren Gingras - 2019-v2.jpg
+  info: Visiting student
+  email:
+  duration: Fall 2019
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Mohsen Khalili
+  #photo: Lauren Gingras - 2019-v2.jpg
+  info: Visiting student
+  email:
+  duration: Fall 2019
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Alexei Halpin
+  #photo: AlexeiHalpin_old.jpg
+  info: Postdoctoral Fellow
+  email:
+  duration: Summer 2019
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Jean-Michel Guay
+  #photo: Lauren Gingras - 2019-v2.jpg
+  info: Postdoctoral Fellow
+  email:
+  duration: Summer 2019
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Luc Alarie
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Summer 2019
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+- name: Cedric Grenapin
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Spring 2019
   number_educ: 0
   education1: 
   education2:
@@ -217,81 +483,163 @@
   education4:
 
 - name: Cassandra Thompson
-  photo: Cassandra_Thompson_2019-01-18.jpg
+  #photo: Cassandra_Thompson_2019-01-18.jpg
   info: Undergraduate student
   email:
-  duration: 
+  duration: Spring 2019
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-  
-- name: Zyad Shehata
-  photo: Zyad_2019.jpeg
-  info: MSc Student, MPL Erlangen
+- name: Aidan Schiff-Kearn
+  #photo: Aidan-Baker-Murray_2019_v3_.jpg
+  info: MSc student
   email:
-  duration: 
+  duration: Fall 2018
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-- name: Malick Kouame
-  photo: Malick_v2.jpg
-  info: Undergraduate mechanical engineering researcher
-  email:
-  duration: 
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:
 
 - name: Aurélien Choloux
-  photo: Aurélien Choloux_July2018.jpg
+  #photo: Aurélien Choloux_July2018.jpg
   info: Undergraduate Student
   email:
-  duration: 
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:
-  
-- name: Ulises Hernandez Calzadillas 
-  photo: Ulises Hernandez-Calzadillas_July2018.jpg
-  info: Undergraduate Student in mechatronics
-  email:
-  duration: 
+  duration: Fall 2018
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
 
-- name: Chang Gao 
-  photo: Chang_July2018_.jpg
-  info: Undergraduate student in biology
-  email:
-  duration: 
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:
   
-- name: Chang Gao 
-  photo: Chang_July2018_.jpg
-  info: Undergraduate student in biology
+- name: Ulises Hernandez Calzadillas 
+  #photo: Ulises Hernandez-Calzadillas_July2018.jpg
+  info: Undergraduate Student
   email:
-  duration: 
+  duration: Fall 2018
   number_educ: 0
   education1: 
   education2:
   education3:
   education4:
-    
+
+ - name: Magdalena Richardson 
+  #photo: Malick_v2.jpg
+  info: Technician
+  email:
+  duration: Summer 2018
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+
+
+- name: Chang Gao 
+  #photo: Chang_July2018_.jpg
+  info: Undergraduate student
+  email:
+  duration: Summer 2018
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+  - name: Attouglé Malick Kouamé
+  #photo: Malick_v2.jpg
+  info: Undergraduate student
+  email:
+  duration: Summer 2018
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+  
+ - name: Lionel Dylan
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Spring 2018
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+ - name: Emily Zhang
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Spring 2018
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+ - name: Adrien Rousseau
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Spring 2017
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+ - name: Thomas Ruska
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Spring 2017
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+ - name: Luisa Späth
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Fall 2016
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+ - name: Zi Qi Lin
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Summer 2017
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+ - name: Yongxin Liu
+  photo: 
+  info: Undergraduate student
+  email:
+  duration: Summer 2017
+  number_educ: 0
+  education1: 
+  education2:
+  education3:
+  education4:
+
+
   
