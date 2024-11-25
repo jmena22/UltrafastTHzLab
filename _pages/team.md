@@ -79,7 +79,7 @@ Jump to [Postdocs](#postdocs), [graduate students](#graduate-students), [alumni]
 
 
 
-## Postdocs
+## Senior Researchers
 
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
@@ -146,7 +146,7 @@ Jump to [Postdocs](#postdocs), [graduate students](#graduate-students), [alumni]
 
 
 
-## Graduate Students
+## Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
