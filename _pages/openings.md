@@ -8,9 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
-**We have open positions for graduate students and postdocs. We are looking for new group members with passion, talent, and grit!
+**We have open positions for graduate students and postdocs. We are looking for new group members with passion, talent, and grit!**
 
-MSc and PhD projects are not simply assigned to students; they are collaboratively defined through thoughtful discussions and considerations. I believe that passion is the catalyst for success, and I aim to present each student with a challenge that they feel motivated and excited to tackle. Projects readily available in our lab involve THz metasurfaces, single-pulse THz spectroscopy and single-THz-photon detection, and there's more.**
+MSc and PhD projects are not simply assigned to students; they are collaboratively defined through thoughtful discussions and considerations. I believe that passion is the catalyst for success, and I aim to present each student with a challenge that they feel motivated and excited to tackle. Projects readily available in our lab involve THz metasurfaces, single-pulse THz spectroscopy and single-THz-photon detection, and there's more.
 
 ### Applications for MSc, PhD and Postdoc positions
 If you are interested in working with us as a graduate student or postdoc, please send me an [email](mailto:jean-michel.menard@uottawa.ca). State briefly why you are interested to join the group and attach a CV, including a unofficial transcript or information about the grades you had as an undergraduate. No need for a separate cover letter or certificates.
