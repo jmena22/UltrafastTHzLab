@@ -91,6 +91,15 @@
   news1:   
   news2: 
 
+- title: "Strong nonlinear response in crystalline quartz at THz frequencies"
+  image: 
+  description: 
+  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva  
+  link: https://arxiv.org/abs/2210.01926
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/adom.202202343
+    display: Advanced Optical Materials 11, 2202343 (2023)
+  highlight: 0
+
 - title: "Scalable fabrication of nanogratings on GaP for efficient diffraction of near-infrared pulses and enhanced terahertz generation by optical rectification."
   image: 
   description: 
@@ -100,15 +109,6 @@
     display:  Crystals 2022, 12(5), 684 (2022)
   highlight: 0
   news2:
-
-- title: "Extremely large nonlinear response in crystalline quartz at THz frequencies"
-  image: 
-  description: 
-  authors: S. Zibod, P. Rasekh, M. Yildrim, W. Cui, R. Bhardwaj, J.-M. Ménard, R. W. Boyd, K. Dolgaleva  
-  link:
-    url: https://arxiv.org/abs/2210.01926
-    display: arXiv
-  highlight: 0
 
 - title: "A comparative investigation of chemically reduced graphene oxide thin films deposited via spray pyrolysis"
   image: 
