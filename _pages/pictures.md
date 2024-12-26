@@ -19,7 +19,7 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}images/Pics/2024_Bowling_Ahmed.jpg" width="60%">
 </figure>
 
-# Canoeing on Dow's lake - Dec 2024
+# Canoeing on Dow's lake - July 2024
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}images/Pics/2024_Canoe_group.jpeg" width="60%">
 </figure>
