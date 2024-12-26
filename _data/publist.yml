@@ -12,7 +12,6 @@
   news1: See also [Sugar-coating quantum systems to harvest science](https://www.uottawa.ca/about-us/news-all/sugar-coating-quantum-systems-harvest-science)
   news2: "and [Quantum Alchemy: Scientists Fuse Light and Sugar To Create New States of Matter](https://scitechdaily.com/quantum-alchemy-scientists-fuse-light-and-sugar-to-create-new-states-of-matter/)"
 
-
 - title: "Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz"
   image: Single-pulse_home.jpg
   description: We demonstrate real-time THz spectroscopy of low-energy states to monitor non-reproducible phenomena with a 20 μs resolution. 
@@ -35,10 +34,9 @@
   news1: 
   news2: 
 
-
 - title: "Metamaterial-based octave-wide terahertz bandpass filters"
   image: THzfilter_home.jpeg
-  description:
+  description: Spectral filters are key components in many optical instruments. For most applications in the visible and near-infrared, filters are fabricated by stacking multiple layers of different dielectric materials, but this fabrication procedure becomes increasingly challenging when devices must operate at longer wavelengths. Here we fabricate bandpass filters for the THz region using metallic metasurfaces. A multi-layered design is implemented to achieve an octave-wide bandpass region featuring a high transmission plateau above 60%, while all other spectral components are blocked with a 99.99% efficiency. The roll-off, which defines how abruptly the transmission drops from the passband to the stopband regions, is  85 dB/octave, one of the highest values among all THz bandpass filters reported to date. 
   authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard 
   link:
     url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-526&id=527935
@@ -46,7 +44,6 @@
   highlight: 1
   news1: 
 
-  
 - title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
   image: 
   description: 
@@ -55,9 +52,6 @@
     url: https://opg.optica.org/ao/fulltext.cfm?uri=ao-62-15-4097&id=530759
     display: Applied Optics 62, 4097-4101 (2023)
   highlight: 0
-
-
-
 
 - title: "Arrays of functionalized graphene chemiresistors for selective sensing of volatile organic compounds"
   image: 
