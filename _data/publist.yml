@@ -331,6 +331,28 @@
   news1: 
   news2: 
 
+- title: "Broadband electric-field-induced LP01 and LP02 second harmonic generation in Xe-filled hollow-core PCF"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, F. Köttig, P. St.J. Russell"
+  link:
+    url: "https://opg.optica.org/ol/abstract.cfm?uri=ol-41-16-3795"
+    display: "Optics Letters 41, 3795 (2016)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "A broadband robustly single-mode hollow-core PCF by resonant filtering of higher-order modes"
+  image: 
+  description: 
+  authors: "P. Uebel, M. C. Günendi, M. H. Frosz, G. Amhmed, N. N. Edavalath, J.-M. Ménard, P. St.J. Russell"
+  link:
+    url: "https://opg.optica.org/ol/abstract.cfm?uri=ol-41-9-1961"
+    display: "Optics Letters 41, 1961 (2016)"
+  highlight: 0
+  news1: 
+  news2: 
+
 - title: "Microcavity design for low threshold polariton condensation with ultrashort optical pulse excitation"
   image: 
   description: 
