@@ -44,6 +44,24 @@
   highlight: 1
   news1: 
 
+- title: "High detectivity terahertz sensing using frequency-noise-optimized nanomechanical resonator"
+  image: 
+  description: 
+  authors: C. Zhang, E. K. Yalavarthi, M. Giroux, W. Cui, X. Xie, M. Stephan, A. Maleki, A. Weck, J.-M. Ménard, R. St-Gelais
+  link:
+    url: https://pubs.aip.org/aip/app/article/9/12/126105/3323021/High-detectivity-terahertz-radiation-sensing-using
+    display: APL Photonics 9, 126105 (2024)
+  highlight: 0
+
+- title: "Performance analysis of table-top single-pulse terahertz detection at rates up to 1.1 MHz"
+  image: 
+  description: 
+  authors: N. Couture, M. Lippl, W. Cui, A. Gamouras, N. Joly, J.-M. Ménard. 
+  link:
+    url: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.054020
+    display: Physics Review Applied 21, 054020 (2024)
+  highlight: 0
+
 - title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
   image: 
   description: 
