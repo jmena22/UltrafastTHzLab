@@ -28,7 +28,7 @@ permalink: /publications/
   <p> Media coverage:<br/>
    -{{ publi.news1 }}<br/>
   -{{ publi.news2 }}</p>
-{%if {{ publi.news1 }} is not None: print("This line")}
+{% if {{ publi.news1 }} is not None: print("This line")}
  </div>
 </div>
 
