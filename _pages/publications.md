@@ -26,8 +26,9 @@ permalink: /publications/
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p> Media coverage:<br/>
-   *{{ publi.news1 }}<br/>
-  *{{ publi.news2 }}</p>
+   -{{ publi.news1 }}<br/>
+  -{{ publi.news2 }}</p>
+if {{ publi.news1 }} is not None: print("This line")
  </div>
 </div>
 
