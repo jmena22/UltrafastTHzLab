@@ -136,16 +136,7 @@
     url: https://doi.org/10.1002/adom.202101136
     display: Advanced Optical Materials 10, 2101136 (2022)
   highlight: 0
-  
-- title: "Graphene field effect transistors: a sensitive platform for detecting sarin"
-  image: 
-  description: 
-  authors: N. Alzate-Carvajal, J. Park, M. Pykal, P. Lazar, R. Rautela, S. Scarfe, L. Scarfe, J.-M. Ménard, M. Otyepka, A. Luican-Mayer
-  link:
-    url: https://pubs.acs.org/doi/10.1021/acsami.1c17770
-    display: ACS Appl. Mater. Interfaces 13, 61751-61757 (2021)
-  highlight: 0
-  
+   
 - title: "UV illumination as a method to improve the performance of gas sensors based on graphene field-effect transistors"
   image: 
   description: 
@@ -153,6 +144,15 @@
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acssensors.1c01783
     display: ACS Sensors  6 (12), 4417-4424 (2021)
+  highlight: 0
+
+- title: "Graphene field effect transistors: a sensitive platform for detecting sarin"
+  image: 
+  description: 
+  authors: N. Alzate-Carvajal, J. Park, M. Pykal, P. Lazar, R. Rautela, S. Scarfe, L. Scarfe, J.-M. Ménard, M. Otyepka, A. Luican-Mayer
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acsami.1c17770
+    display: ACS Appl. Mater. Interfaces 13, 61751-61757 (2021)
   highlight: 0
 
 - title: "Front-induced transitions control THz waves"
@@ -164,35 +164,13 @@
     display: Communications Physics 4, 162 (2021)
   highlight: 0
 
-- title: "Terahertz nonlinear spectroscopy of water vapor"
+- title: "Systematic THz study of the substrate effect in limiting the mobility of graphene"
   image: 
-  description: 
-  authors: "P. Rasekh, A. Safari, M. Yildirim, R. Bhardwaj, J.-M. Ménard, K. Dolgaleva, R. W. Boyd"
+  description: "An investigation into how the substrate affects the mobility of graphene, providing insights for improving graphene-based devices."
+  authors: "S. Scarfe, W. Cui, A. Luican-Mayer, J.-M. Ménard"
   link:
-    url: "https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c00056"
-    display: "ACS Photonics 8, 1683 (2021)"
-  highlight: 0
-  news1: 
-  news2: 
-
-- title: "Physics graduate student employment: what we can learn from professional social media"
-  image: 
-  description: "This study analyzes the use of professional social media in aiding physics graduate student employment, providing insights into recruitment trends."
-  authors: "E. M. Tonita, L. Szulakowska, J. Baxter, E. L. Flannigan, N. Janakiraman Narayanan, J.-M. Ménard"
-  link:
-    url: "https://arxiv.org/abs/2106.04294"
-    display: "arXiv:2106.04294 (2021)"
-  highlight: 0
-  news1: 
-  news2: 
-
-- title: "Speeding up ultrafast spectroscopy"
-  image: 
-  description: 
-  authors: "R. Ostic, J.-M. Ménard"
-  link:
-    url: "https://physics.aps.org/articles/v14/23"
-    display: "Physics 14, 23 (2021)"
+    url: "https://www.nature.com/articles/s41598-021-87894-5"
+    display: "Scientific Reports 11, 8729 (2021)"
   highlight: 0
   news1: 
   news2: 
@@ -208,17 +186,28 @@
   news1: 
   news2: 
 
-- title: "Systematic THz study of the substrate effect in limiting the mobility of graphene"
+- title: "Speeding up ultrafast spectroscopy"
   image: 
-  description: "An investigation into how the substrate affects the mobility of graphene, providing insights for improving graphene-based devices."
-  authors: "S. Scarfe, W. Cui, A. Luican-Mayer, J.-M. Ménard"
+  description: 
+  authors: "R. Ostic, J.-M. Ménard"
   link:
-    url: "https://www.nature.com/articles/s41598-021-87894-5"
-    display: "Scientific Reports 11, 8729 (2021)"
+    url: "https://physics.aps.org/articles/v14/23"
+    display: "Physics 14, 23 (2021)"
   highlight: 0
   news1: 
   news2: 
 
+- title: "Terahertz nonlinear spectroscopy of water vapor"
+  image: 
+  description: 
+  authors: "P. Rasekh, A. Safari, M. Yildirim, R. Bhardwaj, J.-M. Ménard, K. Dolgaleva, R. W. Boyd"
+  link:
+    url: "https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c00056"
+    display: "ACS Photonics 8, 1683 (2021)"
+  highlight: 0
+  news1: 
+  news2: 
+  
 - title: "Ultra-high-Q resonances in plasmonic metasurfaces"
   image: 
   description: 
@@ -230,24 +219,13 @@
   news1: 
   news2: 
 
-- title: "Propagation of broadband THz pulses: effects of dispersion, diffraction and time-varying nonlinear refraction"
+- title: "Physics graduate student employment: what we can learn from professional social media"
   image: 
-  description: "A comprehensive study on the propagation of broadband terahertz pulses, focusing on the effects of dispersion, diffraction, and nonlinear refraction."
-  authors: "P. Rasekh, M. Saliminabi, M. Yildirim, R. W. Boyd, J.-M. Ménard, K. Dolgaleva"
+  description: "This study analyzes the use of professional social media in aiding physics graduate student employment, providing insights into recruitment trends."
+  authors: "E. M. Tonita, L. Szulakowska, J. Baxter, E. L. Flannigan, N. Janakiraman Narayanan, J.-M. Ménard"
   link:
-    url: "https://doi.org/10.1364/OE.381150"
-    display: "Optics Express 28, 3237 (2020)"
-  highlight: 0
-  news1: 
-  news2: 
-  
-- title: "Ultrafast modulation of the spectral filtering properties of a THz metasurface"
-  image: 
-  description: 
-  authors: "L. Gingras, A. Jaber, A. Maleki, O. Reshef, K. Dolgaleva, R. W. Boyd, J.-M. Ménard"
-  link:
-    url: "https://doi.org/10.1364/OE.395508"
-    display: "Optics Express 28, 20296 (2020)"
+    url: "https://pic-pac.cap.ca/index.php/Issues/showpdf/article/v77n2.0-a4166.pdf"
+    display: "Physics in Canada (PiC) 77, 39 (2021)"
   highlight: 0
   news1: 
   news2: 
@@ -262,17 +240,28 @@
   highlight: 0
   news1: 
   news2:   
-
-- title: "Enhanced terahertz detection efficiency via grating-assisted noncollinear electro-optic sampling"
+  
+- title: "Ultrafast modulation of the spectral filtering properties of a THz metasurface"
   image: 
   description: 
-  authors: "A. Halpin, W. Cui, A. W. Schiff-Kearn, . M. Awan, K. Dolgaleva, J.-M. Ménard"
+  authors: "L. Gingras, A. Jaber, A. Maleki, O. Reshef, K. Dolgaleva, R. W. Boyd, J.-M. Ménard"
   link:
-    url: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.031003"
-    display: "Physical Review Applied 12, 031003 (2019)"
+    url: "https://doi.org/10.1364/OE.395508"
+    display: "Optics Express 28, 20296 (2020)"
   highlight: 0
   news1: 
-  news2:   
+  news2: 
+
+- title: "Propagation of broadband THz pulses: effects of dispersion, diffraction and time-varying nonlinear refraction"
+  image: 
+  description: "A comprehensive study on the propagation of broadband terahertz pulses, focusing on the effects of dispersion, diffraction, and nonlinear refraction."
+  authors: "P. Rasekh, M. Saliminabi, M. Yildirim, R. W. Boyd, J.-M. Ménard, K. Dolgaleva"
+  link:
+    url: "https://doi.org/10.1364/OE.381150"
+    display: "Optics Express 28, 3237 (2020)"
+  highlight: 0
+  news1: 
+  news2: 
 
 - title: "Multi-resonant high-Q plasmonic metasurfaces"
   image: 
@@ -281,6 +270,17 @@
   link:
     url: "https://pubs.acs.org/doi/10.1021/acs.nanolett.9b02638"
     display: "Nano Letters 19, 6429 (2019)"
+  highlight: 0
+  news1: 
+  news2:   
+
+- title: "Enhanced terahertz detection efficiency via grating-assisted noncollinear electro-optic sampling"
+  image: 
+  description: 
+  authors: "A. Halpin, W. Cui, A. W. Schiff-Kearn, . M. Awan, K. Dolgaleva, J.-M. Ménard"
+  link:
+    url: "https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.12.031003"
+    display: "Physical Review Applied 12, 031003 (2019)"
   highlight: 0
   news1: 
   news2:   
@@ -329,17 +329,6 @@
   news1: 
   news2: 
 
-- title: "Phase-matched electric-field-induced second-harmonic generation in Xe-filled hollow-core PCF"
-  image: 
-  description: 
-  authors: "J.-M. Ménard and P. St.J. Russell"
-  link:
-    url: "https://doi.org/10.1364/OL.40.003679"
-    display: "Optics Letters 40, 3679 (2015)"
-  highlight: 0
-  news1: 
-  news2: 
-
 - title: "Microcavity design for low threshold polariton condensation with ultrashort optical pulse excitation"
   image: 
   description: 
@@ -347,6 +336,17 @@
   link:
     url: "https://doi.org/10.1063/1.4921586"
     display: "Journal of Applied Physics 117, 205702 (2015)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Phase-matched electric-field-induced second-harmonic generation in Xe-filled hollow-core PCF"
+  image: 
+  description: 
+  authors: "J.-M. Ménard and P. St.J. Russell"
+  link:
+    url: "https://doi.org/10.1364/OL.40.003679"
+    display: "Optics Letters 40, 3679 (2015)"
   highlight: 0
   news1: 
   news2: 
@@ -417,17 +417,6 @@
   news1: 
   news2: 
 
-- title: "Spin Hall effect of light in a semiconductor"
-  image: 
-  description: 
-  authors: "J.-M. Ménard, A. E. Mattacchione, M. Betz, H. M. van Driel"
-  link:
-    url: ""
-    display: " Journal of Physics in Canada 65, 132 (2009)"
-  highlight: 0
-  news1: 
-  news2: 
-
 - title: "Imaging the spin Hall effect of light inside semiconductors via absorption"
   image: 
   description: 
@@ -435,6 +424,17 @@
   link:
     url: "https://doi.org/10.1364/OL.34.002312"
     display: "Optics Letters 34, 2312 (2009)"
+  highlight: 0
+  news1: 
+  news2: 
+
+- title: "Spin Hall effect of light in a semiconductor"
+  image: 
+  description: 
+  authors: "J.-M. Ménard, A. E. Mattacchione, M. Betz, H. M. van Driel"
+  link:
+    url: ""
+    display: " Journal of Physics in Canada 65, 132 (2009)"
   highlight: 0
   news1: 
   news2: 
