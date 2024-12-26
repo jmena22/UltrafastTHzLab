@@ -23,16 +23,6 @@
   news1: 
   news2: 
 
-- title: "Metamaterial-based octave-wide terahertz bandpass filters"
-  image: THzfilter_home.jpeg
-  description: A multi-layered metasurface-based design is implemented to achieve an octave-wide bandpass region featuring a high transmission plateau blocking all other spectral components with a >99.99% efficiency.
-  authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard 
-  link:
-    url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-526&id=527935
-    display: Photonics Research 11, 526-532 (2023)
-  highlight: 4
-  news1: 
-
 - title: "High detectivity terahertz sensing using frequency-noise-optimized nanomechanical resonator"
   image: 
   description: 
@@ -61,6 +51,16 @@
   highlight: 2
   news1: "See also [Unveiling the invisible: A breakthrough in spectroscopy to allow discoveries in materials physics](https://www.uottawa.ca/about-us/media/news/unveiling-invisible-breakthrough-spectroscopy-allow-discoveries-materials-physics)" 
   news2: and [A breakthrough approach that will facilitate discoveries in materials science](https://www.techexplorist.com/breakthrough-approach-facilitate-discoveries-materials-science/62030/) 
+
+- title: "Metamaterial-based octave-wide terahertz bandpass filters"
+  image: THzfilter_home.jpeg
+  description: A multi-layered metasurface-based design is implemented to achieve an octave-wide bandpass region featuring a high transmission plateau blocking all other spectral components with a >99.99% efficiency.
+  authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard 
+  link:
+    url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-526&id=527935
+    display: Photonics Research 11, 526-532 (2023)
+  highlight: 4
+  news1: 
 
 - title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
   image: 
