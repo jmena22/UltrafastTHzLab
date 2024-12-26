@@ -25,8 +25,9 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p>{{ publi.news1 }}</p>
-  <p>{{ publi.news2 }}</p>
+  <p> Media coverage:
+   {{ publi.news1 }}
+  {{ publi.news2 }}</p>
  </div>
 </div>
 
