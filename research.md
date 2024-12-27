@@ -14,7 +14,7 @@ The far-infrared region of the electromagnetic spectrum of light corresponding t
 
 Our work can be decomposed into 4 axes of research:  
 
-**THz slow-motion camera: single-pulse THz spectroscopy of real-time phenomena with µs resolution**<br>
+## THz slow-motion camera: single-pulse THz spectroscopy of real-time phenomena with µs resolution <br>
 
 ![]({{ site.url }}{{ site.baseurl }}images/resized/Single-pulse_home.jpg){: : style="width: 80%; float: center; margin: 0px"}
 
@@ -23,7 +23,7 @@ We designed a system able to rapidly acquire successive THz waveforms to perform
 <p>[1]	N. Couture et al. Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz. Nature Communications 14, 2595 (2023) [[Link](https://www.nature.com/articles/s41467-023-38354-3)], [[arXiv](https://arxiv.org/abs/2207.11766)]<br>
 [2]	N. Couture et al. Performance analysis of table-top single-pulse terahertz detection up to 1.1 MHz. Phys. Rev. Applied 21, 054020 (2024) [[Link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.054020)],  [arXiv](https://arxiv.org/abs/2309.09803)]</p>
 
-**THz quantum photonics: single-THz-photon detection**<br>
+## THz quantum photonics: single-THz-photon detection
 
 ![]({{ site.url }}{{ site.baseurl }}images/pubpic/Singlephotondetection.png){: : style="width: 40%; float: center; margin: 0px"}
 
@@ -31,7 +31,7 @@ We explore new techniques to detect THz radiation with unprecedented high sensit
 
 <p>[3]	D. J. Jubgang Fandio et al. Zeptojoule detection of terahertz pulses by parametric frequency upconversion. Optics Letter 49, 1556 (2024) [[Link](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-6-1556)], [[ArXiv](https://arxiv.org/abs/2310.08452)]</p>
 
-**Quantum molecular materials via light-matter hybridization**<br>
+## Quantum molecular materials via light-matter hybridization
 
 ![]({{ site.url }}{{ site.baseurl }}images/pubpic/Pic_CG_vers2.jpg){: : style="width: 40%; float: center; margin: 0px"}
 
@@ -39,7 +39,7 @@ During the last 30 years, physicists have used a range of advanced experimental 
 
 <p>[4]	A. Jaber et al. Hybrid THz architectures for molecular polaritonics. Nature Communications 15, 4427 (2024) [[Link](https://www.nature.com/articles/s41467-024-48764-6)], [[arXiv](https://arxiv.org/abs/2304.03654)]</p>
 
-**Nonlinear phenomena at low energies driven by high-field THz**<br>
+## Nonlinear phenomena at low energies driven by high-field THz
 
 ![]({{ site.url }}{{ site.baseurl }}images/Papers/nature_light_sci_appl_150dpi_zoomed_out_horiz.jpg){: : style="width: 40%; float: center; margin: 0px"}
 
