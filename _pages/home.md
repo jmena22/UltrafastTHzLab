@@ -27,7 +27,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/resized/THzfilter_home.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/resized/nature_light_sci_appl_150dpi_lowres.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}images/resized/nature_light_sci_appl_150dpi_zoomed_out_horiz_lowres.jpg" alt="Slide 3" />
         </div>        
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/resized/Single-pulse_home.jpg" alt="Slide 4" />
