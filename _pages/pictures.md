@@ -43,11 +43,11 @@ permalink: /pictures/
 ## IRMMW-THz 2023 - Montreal
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-Group.jpg" width="25%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-Group.jpg" width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-JM.jpg" width="25%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-JM.jpg" width="60%">
 </figure>
 
 <figure>
@@ -59,11 +59,11 @@ permalink: /pictures/
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-Wei.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-Wei.jpg" width="25%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-Ali.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/IRMMW-THz2023/2023_IRMMW-Ali.jpg" width="25%">
 </figure>
 
 <figure>
