@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-{% assign number_printed = 1 %}
+{% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
