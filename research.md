@@ -20,8 +20,8 @@ Our work can be decomposed into 4 axes of research:
 
 We designed a system able to rapidly acquire successive THz waveforms to perform real-time monitoring of fast and non-reproducible phenomena [1,2]. In this configuration, each THz waveform is encoded on a chirped supercontinuum resembling a stretched rainbow (see picture). The detection is then ultimately determined by the repetition rate of the laser generating both the THz pulse and the supercontinuum. Although this rate can be well into the MHz range, in practice the technique is limited by the response time of the optical sensors and read-out time of components. Here we overcome this obstacle by using dispersive Fourier transform spectroscopy of the NIR pulse inside a km-long fiber. We achieve time-resolved THz spectroscopy with a table-top setup at record rates of 1 MHz. This innovative work lays the foundation towards resolving fast irreversible physical and chemical processes with time resolution approaching 1 µs.<br>
 
-[1]	N. Couture et al. Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz. Nature Communications 14, 2595 (2023) [[Link](https://www.nature.com/articles/s41467-023-38354-3)], [[arXiv](https://arxiv.org/abs/2207.11766)]<br>
-[2]	N. Couture et al. Performance analysis of table-top single-pulse terahertz detection up to 1.1 MHz. Phys. Rev. Applied 21, 054020 (2024) [[Link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.054020)],  [arXiv](https://arxiv.org/abs/2309.09803)]
+<p>[1]	N. Couture et al. Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz. Nature Communications 14, 2595 (2023) [[Link](https://www.nature.com/articles/s41467-023-38354-3)], [[arXiv](https://arxiv.org/abs/2207.11766)]<br>
+[2]	N. Couture et al. Performance analysis of table-top single-pulse terahertz detection up to 1.1 MHz. Phys. Rev. Applied 21, 054020 (2024) [[Link](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.054020)],  [arXiv](https://arxiv.org/abs/2309.09803)]</p>
 
 **THz quantum photonics: single-THz-photon detection**<br>
 
