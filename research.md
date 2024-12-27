@@ -16,7 +16,7 @@ Our work can be decomposed into 4 axes of research:
 
 ## THz slow-motion camera: single-pulse THz spectroscopy of real-time phenomena with µs resolution <br>
 
-![]({{ site.url }}{{ site.baseurl }}images/resized/Single-pulse_home.jpg){: : style="width: 80%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}images/resized/Single-pulse_home.jpg){: : style="width: 60%; float: center; margin: 0px"}
 
 We designed a system able to rapidly acquire successive THz waveforms to perform real-time monitoring of fast and non-reproducible phenomena [1,2]. In this configuration, each THz waveform is encoded on a chirped supercontinuum resembling a stretched rainbow (see picture). The detection is then ultimately determined by the repetition rate of the laser generating both the THz pulse and the supercontinuum. Although this rate can be well into the MHz range, in practice the technique is limited by the response time of the optical sensors and read-out time of components. Here we overcome this obstacle by using dispersive Fourier transform spectroscopy of the NIR pulse inside a km-long fiber. We achieve time-resolved THz spectroscopy with a table-top setup at record rates of 1 MHz. This innovative work lays the foundation towards resolving fast irreversible physical and chemical processes with time resolution approaching 1 µs.<br>
 
