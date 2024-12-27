@@ -19,6 +19,12 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}images/Pics/2024_Bowling_Ahmed.jpg" width="60%">
 </figure>
 
+## Strathcona Park - August 2024
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/2024_Strathcona park__.jpg" width="60%">
+</figure>
+
 ## Canoeing on Dow's lake - July 2024
 
 <figure>
