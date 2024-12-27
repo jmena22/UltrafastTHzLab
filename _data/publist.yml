@@ -63,7 +63,7 @@
 
 - title: "Metamaterial-based octave-wide terahertz bandpass filters"
   image: THzfilter_home.jpeg
-  description: A multi-layered metasurface-based design is implemented to achieve an octave-wide bandpass region featuring a high transmission plateau blocking all other spectral components with a >99.99% efficiency.
+  description: We fabricate a metasurface-based bandpass filter for far-infrared radiation with an octave-wide passband region and a rejection zone blocking >99.99% of undesired frequencies.
   authors: A. Maleki, A. Singh, A. Jaber, W. Cui, Y. Xin, B. Sullivan, R. W. Boyd, J.-M. Ménard 
   link:
     url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-526&id=527935
