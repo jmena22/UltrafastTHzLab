@@ -6,7 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Featured publications
+# Publications
+## Featured
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
