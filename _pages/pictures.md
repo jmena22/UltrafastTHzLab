@@ -39,6 +39,59 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}images/Pics/2024_Ultrafast THz group - 5.jpeg" width="60%">
 </figure>
 
+# Out-reach
+## Immacula High School - March 2025
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Immacula_1.jpg" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Immacula_2.jpg" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Immacula_4.jpg" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Immacula_5.jpg" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Immacula_6.jpg" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Immacula_7.jpg" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Immacula_8.jpg" width="40%">
+</figure>
+
+
+## St.Joseph High School - April 2025
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_1.HEIC)" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_2.HEIC)" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_3.HEIC)" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_4.HEIC)" width="40%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_5.HEIC)" width="40%">
+</figure>
+
 # Conferences
 ## IRMMW-THz 2023 - Montreal
 
