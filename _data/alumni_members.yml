@@ -1,3 +1,73 @@
+- name: Jakob McBride
+  photo: 
+  info: Undergraduate student
+  duration: Summer 2025 
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
+- name: Emma Saunders
+  photo: 
+  info: Undergraduate student
+  duration: Summer 2025 
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
+- name: Claudia Rupert
+  photo: 
+  info: Research Associate
+  duration: Summer 2025 
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
+- name: Markus Betz
+  photo: 
+  info: Visiting Professor
+  duration: Summer 2025 
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
+- name: Breeana Elliott
+  photo: 
+  info: Undergraduate Coop student
+  duration: Spring 2025 
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
+- name: Zen Trozzi
+  photo: 
+  info: Honour's student
+  duration: Spring 2025 
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
+- name: Philippe Plante
+  photo: 
+  info: Honour's student
+  duration: Spring 2025 
+  email:
+  number_educ: 0
+  education1:
+  education2: 
+  education3:
+
 - name: Wei Cui
   #photo: WeiCui_.jpeg
   info: PhD student and postdoctoral fellow
@@ -28,6 +98,7 @@
   education2: 
   education3: 
   education4: 
+  
 - name: Défi Junior Jubgang Fandio
   photo: Défi_2.jpg
   duration: Fall 2023
