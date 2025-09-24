@@ -1,16 +1,9 @@
-- name: Markus Bertz
-  photo: Markus Betz.jpg
-  info: Visiting Professor
-  email: mbetz@uottawa.ca
-  office: ARC 506
-  tel:
-    
-- name: Claudia Rupert
-  photo: Claudia Ruppert.jpg
-  info: Research Associate
-  email: 
-  office: ARC 506
-  tel:
+- name: Ali Maleki
+  photo: AliMaleki-2019_.jpg
+  info: Postdoc
+  email: amale006@uottawa.ca
+  office: ARC 312
+  tel: 613-562-5800 ext.7219
 
 - name: Hesam Heydarian
   photo: hesam.jpeg
