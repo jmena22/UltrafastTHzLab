@@ -1,3 +1,12 @@
+- title: "Effect of Reduced Graphene Oxide Film Thickness on a Chemiresistor’s Response to Volatile Organic Compounds and Warfare Agents"
+  image: 
+  description: 
+  authors: I. Bargaoui, N. Bitri, J.-M. Ménard 
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acsomega.5c07277
+    display: ACS Omega (2025)
+  highlight: 0
+
 - title: "Characterization of Terahertz Spectral Bands for Next Generation of Wireless Communications"
   image: 
   description: 
@@ -96,7 +105,7 @@
     url: https://opg.optica.org/prj/fulltext.cfm?uri=prj-11-4-526&id=527935
     display: Photonics Research 11, 526-532 (2023)
   highlight: 1
-  news1: 
+  news1: "Media coverage:<br/>  1. [Sticking to innovation: The surprising role of tape in terahertz photonics](https://www.uottawa.ca/faculty-science/news-all/sticking-innovation-surprising-role-tape-terahertz-photonics)" 
 
 - title: "Compact, low-cost, and broadband terahertz time-domain spectrometer"
   image: 
