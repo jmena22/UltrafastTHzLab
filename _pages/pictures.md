@@ -36,7 +36,43 @@ permalink: /pictures/
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/2024_Ultrafast THz group - 5.jpeg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Ice cream 2017.jpg" width="60%">
+</figure>
+
+## Skating on the Ridau canal - 2020-2022
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Skating - Feb 2020.jpg" width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/skating_group-Feb2022.jpg" width="60%">
+</figure>
+
+## Group picture time - April 2019
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/April 2019.jpg" width="60%">
+</figure>
+
+## Holiday season  2019
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/xmas - 2019.jpg" width="60%">
+</figure>
+
+## Ice cream breaks - 2017-2019
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Ice cream - Ultrafast THz group - 2019.jpg" width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Ice cream - Aug 2018.jpg" width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Ice cream 2017.jpg" width="60%">
 </figure>
 
 # Out-reach
@@ -73,23 +109,23 @@ permalink: /pictures/
 ## St.Joseph High School - April 2025
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_1.HEIC)" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_1.jpg)" width="40%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_2.HEIC)" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_2.jpg)" width="40%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_3.HEIC)" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_3.jpg)" width="40%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_4.HEIC)" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_4.jpg)" width="40%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_5.HEIC)" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/StJoseph_5.jpg)" width="40%">
 </figure>
 
 # Conferences
