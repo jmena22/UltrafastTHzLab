@@ -36,10 +36,10 @@ permalink: /pictures/
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Pics/Ice cream 2017.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Pics/2024_Ultrafast THz group - 5.jpg" width="60%">
 </figure>
 
-## Skating on the Ridau canal - 2020-2022
+## Skating on the Rideau canal - 2020-2022
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}images/Pics/Skating - Feb 2020.jpg" width="60%">
