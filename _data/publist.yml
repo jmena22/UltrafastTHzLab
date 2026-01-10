@@ -1,6 +1,15 @@
 - title: "Nonlinear optical properties of graphene: a comparison of liquid-phase exfoliation and chemical vapor deposition"
   image: 
   description: 
+  authors: E. K. Yalavarthi, W. Cui, A. Vishnuradhan, N. Couture, M. Betz, A. Gamouras, J.-M. Ménard
+  link:
+    url: https://doi.org/10.1007/s10762-025-01107-y
+    display: Journal of Infrared, Millimeter, and Terahertz Waves 47, 1 (2026).
+  highlight: 0
+
+- title: "Nonlinear optical properties of graphene: a comparison of liquid-phase exfoliation and chemical vapor deposition"
+  image: 
+  description: 
   authors: A. A. Baker-Murray, N. Couture, I. Bargaoui, Z. Shehata, W. J. Blau, M. Betz, J.-M. Ménard 
   link:
     url: https://opg.optica.org/ome/fulltext.cfm?uri=ome-15-12-3049
@@ -16,23 +25,16 @@
     display: ACS Omega (2025)
   highlight: 0
 
-- title: "Characterization of Terahertz Spectral Bands for Next Generation of Wireless Communications"
-  image: 
-  description: 
-  authors: E. K. Yalavarthi, W. Cui, A. Vishnuradhan, N. Couture, M. Betz, A. Gamouras, J.-M. Ménard 
-  link:
-    url: https://arxiv.org/abs/2503.10414
-    display: arXiv:2503.10414 (2025)
-  highlight: 0
-
 - title: "Strategies to enhance THz harmonic generation combining multilayered, gated, and metamaterial-based architectures"
-  image: 
+  image: nature_light_sci_appl_150dpi_zoomed_out_horiz_lowres.jpg
   description: 
   authors: A. Maleki, M. B. Heindl, Y. Xin, R. W. Boyd, G. Herink, J.-M. Ménard 
   link:
     url: https://www.nature.com/articles/s41377-024-01657-1
-    display: Light Sci Appl 14, 44 (2025)
-  highlight: 0
+    display: Light: Science & Applications 14, 44 (2025)
+  highlight: 1
+  news1: "Media coverage:<br/>  1. [Harnessing electromagnetic waves and quantum materials to improve wireless communication technologies](https://www.uottawa.ca/en/news-all/harnessing-electromagnetic-waves-quantum-materials-improve-wireless-communication)"
+  news2: "2. [Graphene-Based Structures for Enhanced Nonlinear Optics](https://www.azooptics.com/News.aspx?newsID=30182)"
 
 - title: "Adaptable electro-optic detectionof THz radiation using a laser-written bull’s-eye antenna"
   image: 
