@@ -172,7 +172,7 @@ permalink: /pictures/
 ## While walking in Ottawa
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Otawa_7.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ottawa_7.jpg" width="60%">
 </figure>
 
 <figure>
