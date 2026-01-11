@@ -6,6 +6,11 @@ permalink: /pictures/
 ---
 
 # Group outings
+## Xmas 2025
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/xmas-2025.jpg" width="60%">
+</figure>
+
 ## Xmas Bowling - Dec 2024
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2024_Bowling_1.jpg" width="60%">
@@ -162,3 +167,27 @@ permalink: /pictures/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Pics/IRMMW-THz2023/2023_IRMMW--Defi.jpg" width="25%">
 </figure>
+
+# Conferences
+## While walking in Ottawa
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Otawa_7.jpg" width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ducks.jpg" width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-1.jpg" width="60%">
+</figure>
+
+### Credit: Nicolas Joly
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-2.jpg" width="60%">
+</figure>
+
+### Credit: Nicolas Joly
+
