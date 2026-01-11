@@ -186,7 +186,7 @@ width="60%">
 width="60%">
 </figure>
 
-#### Credit: Nicolas Joly
+#### Credit: Nicolas Joly.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-2.jpg"
