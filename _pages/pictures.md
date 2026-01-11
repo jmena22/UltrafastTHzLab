@@ -177,37 +177,9 @@ width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Ducks.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Wavesonthecanal.jpg"
 width="60%">
 </figure>
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-1.jpg"
-width="60%">
-</figure>
-
-#### Credit: Nicolas Joly.
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-2.jpg"
-width="60%">
-</figure>
-
-#### Credit: Nicolas Joly
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-3.jpg"
-width="60%">
-</figure>
-
-#### Credit: Nicolas Joly
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-4.jpg"
-width="60%">
-</figure>
-
-#### Credit: Nicolas Joly
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Rocks.jpg"
@@ -224,8 +196,27 @@ width="60%">
 width="60%">
 </figure>
 
+#### Credit: Nicolas Joly
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Wavesonthecanal.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-1.jpg"
+width="60%">
+</figure>
+
+#### Credit: Nicolas Joly
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-2.jpg"
+width="60%">
+</figure>
+
+#### Credit: Nicolas Joly
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-3.jpg"
+width="60%">
+</figure>
+
+#### Credit: Nicolas Joly
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-4.jpg"
 width="60%">
 </figure>
 
