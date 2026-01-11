@@ -186,6 +186,12 @@ width="60%">
 width="60%">
 </figure>
 
+#### Look at the clouds
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Wavyclouds.jpg"
+width="60%">
+</figure>
+
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Sky-1.jpg"
 width="60%">
@@ -221,11 +227,6 @@ width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Wavyclouds.jpg"
-width="60%">
-</figure>
-
-<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/CanalRideau.jpg"
 width="60%">
 </figure>
@@ -242,6 +243,11 @@ width="60%">
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Boreal-3.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Comet-2024.jpg"
 width="60%">
 </figure>
 
