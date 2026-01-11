@@ -172,21 +172,25 @@ permalink: /pictures/
 ## While walking in Ottawa
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ottawa_7.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ottawa_7.jpg"
+width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ducks.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ducks.jpg"
+width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-1.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-1.jpg"
+width="60%">
 </figure>
 
-### Credit: Nicolas Joly
+#### Credit: Nicolas Joly
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-2.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-2.jpg"
+width="60%">
 </figure>
 
 ### Credit: Nicolas Joly
