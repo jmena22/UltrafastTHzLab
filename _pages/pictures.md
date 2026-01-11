@@ -172,17 +172,17 @@ permalink: /pictures/
 ## While walking in Ottawa
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ottawa_7.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Ottawa_7.jpg"
 width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/Ducks.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Ducks.jpg"
 width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/IRMMW-THz2023/2023_IRMMW--Defi.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-1.jpg"
 width="60%">
 </figure>
 
@@ -193,5 +193,68 @@ width="60%">
 width="60%">
 </figure>
 
-### Credit: Nicolas Joly
+#### Credit: Nicolas Joly
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-3.jpg"
+width="60%">
+</figure>
+
+#### Credit: Nicolas Joly
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/NJoly-4.jpg"
+width="60%">
+</figure>
+
+#### Credit: Nicolas Joly
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Rocks.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Sky-1.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Sky-2.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Wavesonthecanal.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Wavyclouds.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/CanalRideau.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Icesculptures.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Boreal-1.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/Boreal-3.jpg"
+width="60%">
+</figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Ottawa/hockeygame.jpg"
+width="60%">
+</figure>
