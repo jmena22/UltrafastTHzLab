@@ -182,7 +182,7 @@ width="60%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ottawa/NJoly-1.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/images/IRMMW-THz2023/2023_IRMMW--Defi.jpg"
 width="60%">
 </figure>
 
