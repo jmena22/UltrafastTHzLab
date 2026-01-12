@@ -83,90 +83,79 @@ permalink: /pictures/
 # Out-reach
 ## Immacula High School - December 2025
 
-<style> .image-row { display: flex; gap: 1rem; margin: 1rem 0; } .image-row figure { flex: 1; margin: 0; } .image-row img { width: 100%; height: auto; display: block; } /* Mobile: stack images */ @media (max-width: 600px) { .image-row { flex-direction: column; } } </style>
-
-<div class="image-row">
-  <figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Photo Dec 16 2025, 8 55 21 AM.jpg" width="100%">
-  </figure>
-  <figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Clement3Dvision.jpg" width="100%">
-  </figure>
-</div>
-
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Photo Dec 16 2025, 8 55 21 AM.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Photo Dec 16 2025, 8 55 21 AM.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Clement3Dvision.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Clement3Dvision.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/EeswarSpectro_3.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/EeswarSpectro_3.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Subhrosugar.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Subhrosugar.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/T0_2.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/T0_2.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Debrief.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/2025Dec_Immaculata/Debrief.jpg" width="50%">
 </figure>
 
 ## St.Joseph High School - April 2025
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_1.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_1.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_2.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_2.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_3.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_3.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_4.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_4.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_5.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/StJoseph_5.jpg" width="50%">
 </figure>
 
 ## Immacula High School - March 2025
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_1.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_1.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_2.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_2.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_4.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_4.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_5.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_5.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_6.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_6.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_7.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_7.jpg" width="50%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_8.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Immacula_8.jpg" width="50%">
 </figure>
 
 # Conferences
