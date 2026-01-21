@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Scarfe, Samantha
+AU  - Cui, Wei
+AU  - Luican-Mayer, Adina
+AU  - Ménard, Jean-Michel
+PY  - 2021
+DA  - 2021/04/22
+TI  - Systematic THz study of the substrate effect in limiting the mobility of graphene
+JO  - Scientific Reports
+SP  - 8729
+VL  - 11
+IS  - 1
+AB  - We explore the substrate-dependent charge carrier dynamics of large area graphene films using contact-free non-invasive terahertz spectroscopy. The graphene samples are deposited on seven distinct substrates relevant to semiconductor technologies and flexible/photodetection devices. Using a Drude model for Dirac fermions in graphene and a fitting method based on statistical signal analysis, we extract transport properties such as the charge carrier density and carrier mobility. We find that graphene films supported by substrates with minimal charged impurities exhibit an enhanced carrier mobility, while substrates with a high surface roughness generally lead to a lower transport performance. The smallest amount of doping is observed for graphene placed on the polymer Zeonor, which also has the highest carrier mobility. This work provides valuable guidance in choosing an optimal substrate for graphene to enable applications where high mobility is required.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-87894-5
+DO  - 10.1038/s41598-021-87894-5
+ID  - Scarfe2021
+ER  - 

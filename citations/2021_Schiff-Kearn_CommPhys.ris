@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Schiff-Kearn, Aidan W.
+AU  - Gingras, Lauren
+AU  - Bernier, Simon
+AU  - Chamanara, Nima
+AU  - Agarwal, Kartiek
+AU  - Ménard, Jean-Michel
+AU  - Cooke, David G.
+PY  - 2021
+DA  - 2021/07/15
+TI  - Front-induced transitions control THz waves
+JO  - Communications Physics
+SP  - 162
+VL  - 4
+IS  - 1
+AB  - Relativistically moving dielectric perturbations can be used to manipulate light in new and exciting ways beyond the capabilities of traditional nonlinear optics. Adiabatic interaction with the moving front modulates the wave simultaneously in both space and time, and manifests a front-induced transition in both wave vector and frequency yielding exotic effects including non-reciprocity and time-reversal. Here we introduce a technique called SLIPSTREAM, Spacetime Light-Induced Photonic STRucturEs for Advanced Manipulation, based on the creation of relativistic fronts in a semiconductor-filled planar waveguide by photoexcitation of mobile charge carriers. In this work, we demonstrate the capabilities of SLIPSTREAM for the manipulation of terahertz (THz) light pulses through relativistic front-induced transitions. In the sub-luminal front velocity regime, we generate temporally stretched THz waveforms, with a quasi-static field lasting for several picoseconds tunable with the front interaction distance. In the super-luminal regime, the carrier front outpaces the THz pulse and a time-reversal operation is performed via a front-induced intra-band transition. We anticipate our platform will be a versatile tool for future applications in the THz spectral band requiring direct and advanced control of light at the sub-cycle level.
+SN  - 2399-3650
+UR  - https://doi.org/10.1038/s42005-021-00667-4
+DO  - 10.1038/s42005-021-00667-4
+ID  - Schiff-Kearn2021
+ER  - 

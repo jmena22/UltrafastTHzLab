@@ -1,0 +1,24 @@
+TY  - EJOUR
+AU  - Park, Jaewoo 
+AU  - Jumu, Franklyn 
+AU  - Power, Justin 
+AU  - Richard, Maxime 
+AU  - Elsahli, Yomna 
+AU  - Jarkas, Mohamad A. 
+AU  - Ruan, Andy 
+AU  - Luican-Mayer, Adina 
+AU  - Ménard, Jean-Michel 
+TI  - Drone-Mountable Gas Sensing Platform Using Graphene Chemiresistors for Remote In-Field Monitoring
+T2  - Sensors
+PY  - 2022
+VL  - 22
+IS  - 6
+SN  - 1424-8220
+SP  - 2383
+AB  - We present the design, fabrication, and testing of a drone-mountable gas sensing platform for environmental monitoring applications. An array of graphene-based field-effect transistors in combination with commercial humidity and temperature sensors are used to relay information by wireless communication about the presence of airborne chemicals. We show that the design, based on an ESP32 microcontroller combined with a 32-bit analog-to-digital converter, can be used to achieve an electronic response similar, within a factor of two, to state-of-the-art laboratory monitoring equipment. The sensing platform is then mounted on a drone to conduct field tests, on the ground and in flight. During these tests, we demonstrate a one order of magnitude reduction in environmental noise by reducing contributions from humidity and temperature fluctuations, which are monitored in real-time with a commercial sensor integrated to the sensing platform. The sensing device is controlled by a mobile application and uses LoRaWAN, a low-power, wide-area networking protocol, for real-time data transmission to the cloud, compatible with Internet of Things (IoT) applications.
+KW  - microcontroller
+KW  - graphene gas sensor
+KW  - drone mountable
+KW  - in-field performances
+DO  - 10.3390/s22062383
+ER  -

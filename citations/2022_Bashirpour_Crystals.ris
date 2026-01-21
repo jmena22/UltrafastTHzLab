@@ -1,0 +1,20 @@
+TY  - EJOUR
+AU  - Bashirpour, Mohammad 
+AU  - Cui, Wei 
+AU  - Gamouras, Angela 
+AU  - Ménard, Jean-Michel 
+TI  - Scalable Fabrication of Nanogratings on GaP for Efficient Diffraction of Near-Infrared Pulses and Enhanced Terahertz Generation by Optical Rectification
+T2  - Crystals
+PY  - 2022
+VL  - 12
+IS  - 5
+SN  - 2073-4352
+SP  - 684
+AB  - We present a process flow for wafer-scale fabrication of a surface phase grating with sub-micron feature sizes from a single semiconductor material. We demonstrate this technique using a 110-oriented GaP semiconductor wafer with second-order nonlinearity to obtain a nanostructured device (800 nm lateral feature size and a 245 nm height modulation) with applications relevant to near-infrared optical diffraction and time-resolved terahertz (THz) technologies. The fabrication process involves a plasma-enhanced chemical deposition of a SiO2 layer on the wafer followed by contact photolithography and inductively coupled plasma reactive ion etching (ICP-RIE). We discuss the required radiation dosage, exposure times, temperatures and other key parameters to achieve high-quality nanogratings in terms of filling ratio, edge profile, and overall shape. The phase-grating properties, such as the pitch, spatial homogeneity, and phase retardation, are characterized with an atomic force microscope, scanning electron microscope and a non-invasive optical evaluation of the optical diffraction efficiency into different orders. We demonstrate an application of this device in a time-domain THz spectroscopy scheme, where an enhanced THz spectral bandwidth is achieved by optical rectification of near-infrared laser pulses incident on the grating and efficiently diffracted into the first orders. Finally, the reported process flow has the potential to be applied to various materials by considering only slight adjustments to the ICP-RIE etching steps, paving the way to scalable fabrication of sub-micron patterns on a large range of substrates.
+KW  - photolithography
+KW  - nanograting
+KW  - gallium phosphide wafer
+KW  - diffraction efficiency
+KW  - time-resolved terahertz
+DO  - 10.3390/cryst12050684
+ER  -
