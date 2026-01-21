@@ -1,0 +1,32 @@
+TY  - JOUR
+TI  - Metamaterial-based octave-wide terahertz bandpass filters
+AB  - We present octave-wide bandpass filters in the terahertz (THz) region based on bilayer-metamaterial (BLMM) structures. The passband region has a super-Gaussian shape with a maximum transmittance approaching 70% and a typical stopband rejection of 20&#x00A0;dB. The design is based on a metasurface consisting of a metallic square-hole array deposited on a transparent polymer, which is stacked on top of an identical metasurface with a subwavelength separation. The superimposed metasurface structures were designed using finite-difference time-domain (FDTD) simulations and fabricated using a photolithography process. Experimental characterization of these structures between 0.3 and 5.8&#x00A0;THz is performed with a time-domain THz spectroscopy system. Good agreement between experiment and simulation results is observed. We also demonstrated that two superimposed BLMM (2BLMM) devices increase the steepness of the roll-offs to more than 85&#x00A0;dB/octave and enable a superior stopband rejection approaching 40&#x00A0;dB while the maximum transmittance remains above 65%. This work paves the way toward new THz applications, including the detection of THz pulses centered at specific frequencies, and an enhanced time-resolved detection sensitivity toward molecular vibrations that are noise dominated by a strong, off-resonant, driving field.
+AU  - Maleki, Ali
+AU  - Singh, Avinash
+AU  - Jaber, Ahmed
+AU  - Cui, Wei
+AU  - Xin, Yongbao
+AU  - Sullivan, Brian T.
+AU  - Boyd, Robert W.
+AU  - Ménard, Jean-Michel
+PB  - Optica Publishing Group
+DA  - 2023/04/01
+PY  - 2023
+T2  - Photonics Research
+J2  - Photon. Res.
+JF  - Photonics Research
+JO  - Photon. Res.
+JA  - Photon. Res.
+VL  - 11
+IS  - 4
+SP  - 526
+EP  - 532
+KW  - Bandpass filters
+KW  - Polymers
+KW  - Spectral properties
+KW  - Subwavelength structures
+KW  - Terahertz time-domain spectroscopy
+KW  - Tunable filters
+UR  - https://opg.optica.org/prj/abstract.cfm?URI=prj-11-4-526
+DO  - 10.1364/PRJ.472109
+ER  -

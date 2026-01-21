@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Heydarian, Hesam
+AU  - Xie, Xitong
+AU  - Vishnuradhan, Aswin
+AU  - Cui, Wei
+AU  - Weck, Arnaud
+AU  - Gamouras, Angela
+AU  - Ménard, Jean-Michel
+PY  - 2025
+DA  - 2025/01/04
+TI  - Adaptable electro-optic detection of THz radiation using a laser-written bull’s-eye antenna
+JO  - Scientific Reports
+SP  - 764
+VL  - 15
+IS  - 1
+AB  - We report a nonlinear terahertz (THz) detection device based on a metallic bull’s-eye plasmonic antenna. The antenna, fabricated with femtosecond laser direct writing and deposited on a nonlinear gallium phosphide (GaP) crystal, focuses incoming THz waveforms within the sub-wavelength bull’s eye region to locally enhance the THz field. Additionally, the plasmonic structure minimizes diffraction effects allowing a relatively long interaction length between the transmitted THz field and the co-propagating near-infrared gating pulse used in an electro-optic sampling configuration. We show an increased detection sensitivity over a large spectral range extending from 1.4 THz to 3.1 THz with a peak enhancement factor of 3.1 at 2.7 THz. We demonstrate that this plasmonic structure is especially effective in monitoring THz signals affected by beam wandering or varying spot sizes. Our concept can be adapted to any second-order nonlinear crystal to realize compact and sensitive THz detectors without the need for tight beam focusing or high-precision alignment. This work paves the way for future developments of compact and sensitive THz detectors, notably for applications in wireless communications.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-024-84625-4
+DO  - 10.1038/s41598-024-84625-4
+ID  - Heydarian2025
+ER  - 

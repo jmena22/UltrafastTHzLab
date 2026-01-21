@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Yalavarthi, Eeswar Kumar
+AU  - Cui, Wei
+AU  - Vishnuradhan, Aswin
+AU  - Couture, Nicolas
+AU  - Betz, Markus
+AU  - Gamouras, Angela
+AU  - Ménard, Jean-Michel
+PY  - 2025
+DA  - 2025/12/24
+TI  - Investigation of High-Transmission 100-GHz Bands Between 1 and 3 THz Using a Nonlinear Upconversion Technique
+JO  - Journal of Infrared, Millimeter, and Terahertz Waves
+SP  - 1
+VL  - 47
+IS  - 1
+AB  - The ever-increasing demand for high-speed data transmission continues to drive research toward sixth generation (6G) wireless technologies and beyond. Terahertz (THz) carrier frequencies are considered promising for achieving data rates up to terabits per second, yet their feasibility is strongly affected by environmental factors such as water vapor absorption. In this work, the propagation distances of several 100 GHz-wide THz channels between 1 and 3 THz were investigated under 35% relative humidity conditions using a table-top spectroscopy apparatus with a nonlinear parametric upconversion detection scheme. This approach avoids temporal scanning and is therefore more practical for wireless communications, while also demonstrating that selected spectral windows can support meaningful propagation distances despite water vapor absorption. We further estimate the usable ranges for seven distinct transmission bands, each offering bandwidths sufficiently broad to sustain high data transfer rates. These results highlight the relevance of THz transmission windows for short-, mid-, and long-range wireless applications and provide timely insight into the exploration of unallocated spectral bands in the THz range.
+SN  - 1866-6906
+UR  - https://doi.org/10.1007/s10762-025-01107-y
+DO  - 10.1007/s10762-025-01107-y
+ID  - Yalavarthi2025
+ER  - 

@@ -1,0 +1,31 @@
+Provider: Silverchair
+Database: AIPPublishing
+Content: text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Zhang, Chang
+AU  - Yalavarthi, Eeswar K.
+AU  - Giroux, Mathieu
+AU  - Cui, Wei
+AU  - Stephan, Michel
+AU  - Maleki, Ali
+AU  - Weck, Arnaud
+AU  - Ménard, Jean-Michel
+AU  - St-Gelais, Raphael
+T1  - High detectivity terahertz radiation sensing using frequency-noise-optimized nanomechanical resonators
+PY  - 2024
+Y1  - 2024/12/02
+DO  - 10.1063/5.0238977
+JO  - APL Photonics
+JA  - APL Photonics
+VL  - 9
+IS  - 12
+SP  - 126105
+SN  - 2378-0967
+AB  - We achieve high detectivity terahertz radiation sensing using a silicon nitride nanomechanical resonator functionalized with a metasurface absorber. High performances are achieved by striking a balance between the frequency stability of the resonator and its responsivity to absorbed radiation. Using this approach, we demonstrate a detectivity D*≈3.4×109cm⋅Hz/W and a noise equivalent power NEP≈36pW/Hz that outperform the best room-temperature on-chip THz detectors, such as pyroelectric detectors, while maintaining a comparable thermal response time of ≈200 ms. Our optical absorber consists of a 1-mm diameter metasurface, which currently enables a 0.5–3 THz detection range but can easily be scaled to other frequencies in the THz and infrared ranges. In addition to demonstrating high-performance terahertz radiation sensing, our work unveils an important fundamental trade-off between frequency stability and responsivity in thermal-based nanomechanical radiation sensors.
+Y2  - 1/21/2026
+UR  - https://doi.org/10.1063/5.0238977
+ER  - 
+
+
+

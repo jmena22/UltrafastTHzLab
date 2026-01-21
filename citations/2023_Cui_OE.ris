@@ -1,0 +1,30 @@
+TY  - JOUR
+TI  - High-field THz source centered at 2.6 THz
+AB  - We demonstrate a table-top high-field terahertz (THz) source based on optical rectification of a collimated near-infrared pulse in gallium phosphide (GaP) to produce peak fields above 300&#x2005;kV/cm with a spectrum centered at 2.6 THz. The experimental configuration, based on tilted-pulse-front phase matching, is implemented with a phase grating etched directly onto the front surface of the GaP crystal. Although the THz generation efficiency starts showing a saturation onset as the near-infrared pulse energy reaches 0.57 mJ, we can expect our configuration to yield THz peak fields up to 866&#x2005;kV/cm when a 5 mJ generation NIR pulse is used. This work paves the way towards broadband, high-field THz sources able to access a new class of THz coherent control and nonlinear phenomena driven at frequencies above 2 THz.
+AU  - Cui, Wei
+AU  - Yalavarthi, Eeswar Kumar
+AU  - Radhan, Aswin Vishnu
+AU  - Bashirpour, Mohammad
+AU  - Gamouras, Angela
+AU  - Ménard, Jean-Michel
+PB  - Optica Publishing Group
+DA  - 2023/09/25
+PY  - 2023
+T2  - Optics Express
+J2  - Opt. Express
+JF  - Optics Express
+JO  - Opt. Express
+JA  - Opt. Express
+VL  - 31
+IS  - 20
+SP  - 32468
+EP  - 32477
+KW  - Laser amplifiers
+KW  - Laser sources
+KW  - Nonlinear optical crystals
+KW  - Optical rectification
+KW  - Phase matching
+KW  - Ultrafast lasers
+UR  - https://opg.optica.org/oe/abstract.cfm?URI=oe-31-20-32468
+DO  - 10.1364/OE.496855
+ER  -

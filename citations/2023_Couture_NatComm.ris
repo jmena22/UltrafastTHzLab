@@ -1,0 +1,24 @@
+TY  - JOUR
+AU  - Couture, Nicolas
+AU  - Cui, Wei
+AU  - Lippl, Markus
+AU  - Ostic, Rachel
+AU  - Fandio, Défi Junior Jubgang
+AU  - Yalavarthi, Eeswar Kumar
+AU  - Vishnuradhan, Aswin
+AU  - Gamouras, Angela
+AU  - Joly, Nicolas Y.
+AU  - Ménard, Jean-Michel
+PY  - 2023
+DA  - 2023/05/05
+TI  - Single-pulse terahertz spectroscopy monitoring sub-millisecond time dynamics at a rate of 50 kHz
+JO  - Nature Communications
+SP  - 2595
+VL  - 14
+IS  - 1
+AB  - Slow motion movies allow us to see intricate details of the mechanical dynamics of complex phenomena. If the images in each frame are replaced by terahertz (THz) waves, such movies can monitor low-energy resonances and reveal fast structural or chemical transitions. Here, we combine THz spectroscopy as a non-invasive optical probe with a real-time monitoring technique to demonstrate the ability to resolve non-reproducible phenomena at 50k frames per second, extracting each of the generated THz waveforms every 20 μs. The concept, based on a photonic time-stretch technique to achieve unprecedented data acquisition speeds, is demonstrated by monitoring sub-millisecond dynamics of hot carriers injected in silicon by successive resonant pulses as a saturation density is established. Our experimental configuration will play a crucial role in revealing fast irreversible physical and chemical processes at THz frequencies with microsecond resolution to enable new applications in fundamental research as well as in industry.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-023-38354-3
+DO  - 10.1038/s41467-023-38354-3
+ID  - Couture2023
+ER  - 

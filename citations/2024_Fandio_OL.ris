@@ -1,0 +1,31 @@
+TY  - JOUR
+TI  - Zeptojoule detection of terahertz pulses by parametric frequency upconversion
+AB  - We combine parametric frequency upconversion with the single-photon counting technology to achieve terahertz (THz) detection sensitivity down to the zeptojoule (zJ) pulse energy level. Our detection scheme employs a near-infrared ultrafast source, a GaP nonlinear crystal, optical filters, and a single-photon avalanche diode. This configuration is able to resolve 1.4 zJ (1.4 × 10–21 J) THz pulse energy, corresponding to 1.5 photons per pulse, when the signal is averaged within only 1 s (or 50,000 pulses). A single THz pulse can also be detected when its energy is above 1185 zJ. These numbers correspond to the noise-equivalent power and THz-to-NIR photon detection efficiency of 1.3 × 10–16 W/Hz1/2 and 5.8 × 10–2%, respectively. To test our scheme, we perform spectroscopy of the water vapor between 1 and 3.7 THz and obtain results that are in agreement with those acquired with a standard electro-optic sampling (EOS) method. Our technique provides a 0.2 THz spectral resolution offering a fast alternative to EOS THz detection for monitoring specific spectral components in spectroscopy, imaging, and communication applications.
+AU  - Jubgang Fandio, Défi Junior
+AU  - Vishnuradhan, Aswin
+AU  - Yalavarthi, Eeswar Kumar
+AU  - Cui, Wei
+AU  - Couture, Nicolas
+AU  - Gamouras, Angela
+AU  - Ménard, Jean-Michel
+PB  - Optica Publishing Group
+DA  - 2024/03/15
+PY  - 2024
+T2  - Optics Letters
+J2  - Opt. Lett.
+JF  - Optics Letters
+JO  - Opt. Lett.
+JA  - Opt. Lett.
+VL  - 49
+IS  - 6
+SP  - 1556
+EP  - 1559
+KW  - Bandpass filters
+KW  - Nonlinear optical crystals
+KW  - Optical filters
+KW  - Photon counting
+KW  - Single-photon avalanche diodes
+KW  - Terahertz detectors
+UR  - https://opg.optica.org/ol/abstract.cfm?URI=ol-49-6-1556
+DO  - 10.1364/OL.517916
+ER  -

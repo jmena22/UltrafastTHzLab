@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Maleki, Ali
+AU  - Heindl, Moritz B.
+AU  - Xin, Yongbao
+AU  - Boyd, Robert W.
+AU  - Herink, Georg
+AU  - Ménard, Jean-Michel
+PY  - 2025
+DA  - 2025/01/09
+TI  - Strategies to enhance THz harmonic generation combining multilayered, gated, and metamaterial-based architectures
+JO  - Light: Science & Applications
+SP  - 44
+VL  - 14
+IS  - 1
+AB  - Graphene has unique properties paving the way for groundbreaking future applications. Its large optical nonlinearity and ease of integration in devices notably makes it an ideal candidate to become a key component for all-optical switching and frequency conversion applications. In the terahertz (THz) region, various approaches have been independently demonstrated to optimize the nonlinear effects in graphene, addressing a critical limitation arising from the atomically thin interaction length. Here, we demonstrate sample architectures that combine strategies to enhance THz nonlinearities in graphene-based structures. We achieve this by increasing the interaction length through a multilayered design, controlling carrier density with an electrical gate, and modulating the THz field spatial distribution with a metallic metasurface substrate. Our study specifically investigates third harmonic generation (THG) using a table-top high-field THz source. We measure THG enhancement factors exceeding thirty and propose architectures capable of achieving a two-order-of-magnitude increase. These findings underscore the potential of engineered graphene-based structures in advancing THz frequency conversion technologies for signal processing and wireless communication applications.
+SN  - 2047-7538
+UR  - https://doi.org/10.1038/s41377-024-01657-1
+DO  - 10.1038/s41377-024-01657-1
+ID  - Maleki2025
+ER  - 

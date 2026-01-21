@@ -1,0 +1,31 @@
+TY  - JOUR
+TI  - Compact, low-cost, and broadband terahertz time-domain spectrometer
+AB  - Terahertz time-domain spectroscopy (THz-TDS) is a powerful technique that enables the characterization of a large range of bulk materials, devices, and products. Although this technique has been increasingly used in research and industry, the standard THz-TDS configuration relying on the use of a near-infrared (NIR) laser source remains experimentally complex and relatively costly, impeding its availability to those without the expertise to build a high-performance setup based on nonlinear optics or without the financial means to acquire a commercial unit. Broadband THz-TDS systems require an even larger financial investment, primarily because the generation and detection of spectral components exceeding 3&#x00A0;THz typically need an ultrafast NIR source delivering sub-100-fs pulses. Such an ultrafast source can be bulky and cost upwards of $100,000. Here, we present a broadband, compact, and portable THz-TDS system comprising three modules that allow for the implementation of a single low-cost ultrafast laser, hence significantly decreasing the overall cost of the system. In the first module, the output laser pulses are spectrally broadened through nonlinear propagation in a polarization-maintaining optical fiber and then temporally compressed to achieve a higher peak power. The other two modules utilize thick nonlinear crystals with periodically patterned surfaces that diffract NIR pulses and optimize the efficiency of THz generation and detection processes by enabling a noncollinear beam geometry. Phase-matching conditions in the nonlinear crystals are controlled by the period of the gratings to gain access to a large spectral THz bandwidth. The whole system, combining these three modules, provides access to a THz spectrum peaking at 3.5&#x00A0;THz and extending beyond 6&#x00A0;THz with a maximum dynamic range of 50&#x00A0;dB for time-resolved spectroscopy applications. We demonstrate the functionality of this configuration by performing THz spectroscopy measurements of water vapor contained within a closed cell. Our compact system design paves the way towards a high-performance, yet cost-effective, THz-TDS system that can be readily used in academia and industry.
+AU  - Couture, Nicolas
+AU  - Schlosser, Jakob
+AU  - Ahmed, Akif
+AU  - Wahbeh, Mamoun
+AU  - Best, Garland
+AU  - Gamouras, Angela
+AU  - Ménard, Jean-Michel
+PB  - Optica Publishing Group
+DA  - 2023/05/20
+PY  - 2023
+T2  - Applied Optics
+J2  - Appl. Opt.
+JF  - Applied Optics
+JO  - Appl. Opt.
+JA  - Appl. Opt.
+VL  - 62
+IS  - 15
+SP  - 4097
+EP  - 4101
+KW  - Laser sources
+KW  - Mass spectrometry
+KW  - Nonlinear optical crystals
+KW  - Raman spectroscopy
+KW  - Systems design
+KW  - Ultrafast lasers
+UR  - https://opg.optica.org/ao/abstract.cfm?URI=ao-62-15-4097
+DO  - 10.1364/AO.486938
+ER  -
