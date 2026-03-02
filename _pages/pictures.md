@@ -4,6 +4,7 @@ layout: piclay
 excerpt: "Ménard Lab -- Pictures"
 permalink: /pictures/
 ---
+[Out-reach](#out-reach)
 
 # Group outings
 ## Xmas 2025
@@ -80,7 +81,6 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/Pics/Ice cream 2017.jpg" width="60%">
 </figure>
 
-<h1 id="out-reach">Out-reach</h1>
 # Out-reach
 ## Immacula High School - December 2025
 
