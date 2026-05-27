@@ -6,6 +6,16 @@ permalink: /pictures/
 ---
 
 # Group outings
+## Group lunch May 2026
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/UltrafastTHz_group_2026may.jpeg" width="60%">
+</figure>
+
+## THz Quantum Sensing Workshop at ÉTS
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Pics/20260428_ETSWorkshop.jpg" width="60%">
+</figure>
+
 ## Xmas 2025
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Pics/xmas-2025.jpg" width="60%">
