@@ -1,6 +1,33 @@
+- title: "Room-temperature THz photon detection via nonlinear upconversion with 2% full-system efficiency"
+  image: 
+  description: 
+  authors: A. Vishnuradhan, W.Cui, H. Heydarian, E. K. Yalavarthi, N. Couture, A. Villeneuve, A. Gamouras,  J.-M. Ménard
+  link:
+    url: https://doi.org/10.48550/arXiv.2605.20424
+    display: "arXiv.2605.20424"
+  highlight: 0"
+
+- title: "Microscopic theory of a radiation-balanced solar laser"
+  image: 
+  description: 
+  authors: A. Jaber, M. Küblböck, J.-M. Ménard, H. Fattahi, C. Genes
+  link:
+    url: https://arxiv.org/abs/2605.03296
+    display: "arXiv:2605.03296"
+  highlight: 0"
+
+- title: "Broadband THz spectroscopy system beyond 25 THz using BNA crystals and a tunable single-ring-fiber compressor"
+  image: 
+  description: 
+  authors: W.Cui, A. Vishnuradhan, M. Lippl, E. K. Yalavarthi, A. Gamouras, N. Joly, J.-M. Ménard
+  link:
+    url: https://arxiv.org/abs/2601.11764
+    display: "arXiv:2601.11764"
+  highlight: 0
+
 - title: "Enhanced nonlinear THz detection using a GaP photonic crystal waveguide and plasmonic antenna coupler"
   image: Heydaria_waveguides.png
-  description: We use graphene layers on a metasurface to produce new THz frequencies. In the future, our concept could help convert wireless signals to higher frequencies, hence bridging the gap between our phones’ current electronics and the emerging THz photonics for >6G technologies.
+  description: We demonstrate a laser-etching technique that carves photonic-crystal waveguides allowing enhanced far-infrared signal detection. 
   authors: H. Heydarian, A. Vishnuradhan, D. Girard, A. R. Escamilla, G. Killaire, A. Weck, A. Gamouras, J.-M. Ménard 
   link:
     url: https://pubs.aip.org/aip/app/article/11/2/026106/3380131/Enhanced-nonlinear-THz-detection-using-a-GaP
