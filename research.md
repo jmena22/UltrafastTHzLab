@@ -41,7 +41,7 @@ During the last 30 years, physicists have used a range of advanced experimental 
 
 ## Nonlinear phenomena at low energies driven by high-field THz
 
-![]({{ site.url }}{{ site.baseurl }}images/resized/nature_light_sci_appl_150dpi_zoomed_out_horiz.jpg){: : style="width: 40%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}images/resized/nature_light_sci_appl_150dpi_zoomed_out_horiz_lowres.jpg){: : style="width: 40%; float: center; margin: 0px"}
 
 Finally, we are also interested in developing new experimental geometries to achieve and explore the regime of high-field THz [5]. Recently we demonstrated a unique high-field THz source with a spectral peak centered at 2.6 THz. The setup relies on optical rectification of intense near-infrared pulses inside a GaP nonlinear crystal to generate THz peak fields up to 300 kV/cm. Our technique takes advantage of a phase grating directly etched at the surface of GaP, which enables a tilted-pulse-front configuration that optimizes phase-matching conditions. This high-field THz source will be used to drive coherent phenomena and explore nonlinear effects in the region between 2 and 4 THz. In parallel, we have explored the regime of extreme nonlinearities in 2D materials by monitoring the generation of THz high harmonics [6]. We demonstrated a device architecture combining a multilayered graphene design, electrical gating, and a metasurface substrate that can enhance harmonic generation efficiency by more than two orders of magnitude.<br>
 
